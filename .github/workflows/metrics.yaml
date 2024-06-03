@@ -5,16 +5,12 @@ on:
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push:
-    branches:
-    - main
-    
-  
-
+  push: {branches: ["master", "main"]}
 jobs:
-  generate:
+  github-metrics:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
