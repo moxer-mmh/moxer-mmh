@@ -8,11 +8,13 @@ on:
   push:
     branches:
     - main
+    
+  
+
 jobs:
-  github-metrics:
+  generate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    timeout-minutes: 10
     steps:
       - uses: lowlighter/metrics@latest
         with:
