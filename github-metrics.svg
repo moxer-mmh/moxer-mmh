@@ -305,7 +305,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 377kb of code in 474 edited files across 247 commits over last 14 days</small>
+                <small>estimation from 377kb of code in 474 edited files across 241 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2834,7 +2834,7 @@ Landing page moxer</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5m out of 138m users</span>
+                                    <span class="gh">ranked 5m out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -3040,7 +3040,7 @@ Landing page moxer</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.14m out of 138m users</span>
+                                    <span class="gh">ranked 3.14m out of 136m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -3258,7 +3258,7 @@ Landing page moxer</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2024, 20:11:41  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2024, 21:11:45  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
