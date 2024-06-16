@@ -2843,7 +2843,7 @@ Landing page moxer</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.01m out of 138m users</span>
+                                    <span class="gh">ranked 5.01m out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -3049,7 +3049,7 @@ Landing page moxer</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.86m out of 138m users</span>
+                                    <span class="gh">ranked 3.86m out of 135m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">3</div>
                                     </div>
@@ -3267,7 +3267,7 @@ Landing page moxer</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jun 2024, 16:12:08  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 16 Jun 2024, 17:09:16  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
