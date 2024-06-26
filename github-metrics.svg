@@ -305,15 +305,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 312kb of code in 349 edited files across 110 commits over last 14 days</small>
+                <small>estimation from 309kb of code in 337 edited files across 104 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.26329387646206" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="237.26329387646206" y="0" width="203.0428128115478" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="440.3061066880099" y="0" width="19.693893311990117" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.54889243310296" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="239.54889243310296" y="0" width="204.4803118908382" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="444.0292043239412" y="0" width="15.970795676058835" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -3189,7 +3189,7 @@ some changes of the css files</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2024, 04:13:41  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2024, 05:10:45  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
