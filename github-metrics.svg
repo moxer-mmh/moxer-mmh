@@ -2765,7 +2765,7 @@ some changes of the css files</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 5.03m out of 137m users</span>
+                                    <span class="gh">ranked 5.03m out of 139m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">13</div>
                                     </div>
@@ -2971,7 +2971,7 @@ some changes of the css files</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 3.16m out of 137m users</span>
+                                    <span class="gh">ranked 3.16m out of 139m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">4</div>
                                     </div>
@@ -3189,7 +3189,7 @@ some changes of the css files</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Jun 2024, 08:14:17  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Jun 2024, 09:12:57  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
