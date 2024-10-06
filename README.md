@@ -1,7 +1,5 @@
 ![welcom](Bottom_up.svg)
 
-![1717089813872](./src/wplkin.png)
-
 ![Snake dark Game](https://github.com/moxer-mmh/moxer-mmh/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![Metrics](github-metrics.svg)
