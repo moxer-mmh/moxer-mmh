@@ -257,17 +257,17 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="146.09033031955005" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="146.09033031955005" y="0" width="74.3851039355756" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="220.47543425512566" y="0" width="52.43608616041966" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="272.9115204155453" y="0" width="50.08143891096662" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="322.99295932651194" y="0" width="45.34495797813484" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="368.33791730464674" y="0" width="39.70981436831489" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="408.0477316729616" y="0" width="29.952401851391773" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="438.00013352435343" y="0" width="14.830703158945422" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.8308366832988" y="0" width="6.404922451901135" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.2357591352" y="0" width="0.3982309117633861" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.63399004696333" y="0" width="0.3660099530366393" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="144.08320641092206" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="144.08320641092206" y="0" width="73.36313266459345" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="217.4463390755155" y="0" width="51.71567077100103" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="269.1620098465165" y="0" width="49.393373840562425" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="318.555383687079" y="0" width="47.08895219117915" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="365.6443358782581" y="0" width="42.69262612273712" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="408.33696200099524" y="0" width="29.540888086276293" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="437.8778500872715" y="0" width="14.626945259110617" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.50479534638214" y="0" width="6.316925710720527" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="458.82172105710265" y="0" width="0.7855192952648855" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="459.6072403523675" y="0" width="0.39275964763244275" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -296,15 +296,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TypeScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PHP
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TypeScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -326,15 +326,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f7523f" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Blade
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Shell
                     </div>
                 </div>
             </section>
@@ -2823,7 +2823,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="138.68421052631578 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="146.8421052631579 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2848,12 +2848,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.68m out of 150m users</span>
+                                    <span class="gh">ranked 3.44m out of 150m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">18</div>
+                                        <div class="value">19</div>
                                     </div>
                                 </div>
-                                <div class="text">Published 18 public repositories</div>
+                                <div class="text">Published 19 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3311,7 +3311,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2024, 12:23:03  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Dec 2024, 13:20:22  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
