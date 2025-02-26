@@ -354,19 +354,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 368kb of code in 222 edited files across 18 commits over last 12 days</small>
+                <small>estimation from 372kb of code in 231 edited files across 20 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="346.59797464556294" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="346.59797464556294" y="0" width="95.91712549696197" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="442.51510014252494" y="0" width="13.015677743605131" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.53077788613" y="0" width="2.6058960318055657" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.13667391793564" y="0" width="1.20909159102843" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="459.345765508964" y="0" width="0.4444377766109069" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.79020328557493" y="0" width="0.20979671442502437" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="347.82782129172614" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="347.82782129172614" y="0" width="94.87690284896819" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="442.70472414069434" y="0" width="12.874522525517246" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.57924666621153" y="0" width="2.5776350507080124" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.1568817169196" y="0" width="1.195978974798845" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="459.35286069171843" y="0" width="0.4396178423347352" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.79247853405315" y="0" width="0.20752146594683152" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2530,6 +2530,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">backend</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e817cd7</div>
+                                        <div class="message">i fixed the account functionalities they are now working as expected</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">moxer-mmh/Fortuna</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">backend</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b679453</div>
                                         <div class="message">edited the import</div>
                                     </div>
@@ -2588,26 +2608,6 @@
                                         <span class="code">backend</span>
                                         in
                                         <span class="repo">moxer-mmh/Fortuna</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/Fortuna</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9611438</div>
-                                        <div class="message">Update ci.yml</div>
                                     </div>
                                 </div>
                             </section>
@@ -3113,7 +3113,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 837k out of 157m users</span>
+                                    <span class="gh">ranked 836k out of 157m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">20</div>
                                     </div>
@@ -3328,7 +3328,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2025, 12:24:34  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Feb 2025, 13:20:59  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
