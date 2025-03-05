@@ -15,11 +15,11 @@ jobs:
       group: metrics-update
       cancel-in-progress: true
     steps:
-      - name: Cache dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache
-          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
+      #- name: Cache dependencies
+        #uses: actions/cache@v4
+        #with:
+          #path: ~/.cache
+          #key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
