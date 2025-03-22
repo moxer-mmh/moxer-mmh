@@ -3160,7 +3160,7 @@ This commit sets up the foundation for the MiniSoft compiler:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 732k out of 159m users</span>
+                                    <span class="gh">ranked 733k out of 159m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">23</div>
                                     </div>
@@ -3375,7 +3375,7 @@ This commit sets up the foundation for the MiniSoft compiler:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Mar 2025, 16:14:19  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 Mar 2025, 17:10:31  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
