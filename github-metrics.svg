@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2244" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2311" class="">
     <defs>
         <style/>
     </defs>
@@ -375,23 +375,23 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 458kb of code in 198 edited files across 18 commits over last 14 days</small>
+                <small>estimation from 491kb of code in 227 edited files across 26 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.47355543613656" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="225.47355543613656" y="0" width="144.87356583714495" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="370.3471212732815" y="0" width="40.14848677709896" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="410.49560805038044" y="0" width="21.571097083507716" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="432.06670513388815" y="0" width="12.063683888590342" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="444.1303890224785" y="0" width="7.246184439596144" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="451.37657346207465" y="0" width="4.238807152922064" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.6153806149967" y="0" width="2.792076412741731" height="8" fill="#9DC3FF"/>
-                    <rect mask="url(#languages-bar)" x="458.4074570277385" y="0" width="0.574135663819597" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.9815926915581" y="0" width="0.5160386025997569" height="8" fill="#00a6a6"/>
-                    <rect mask="url(#languages-bar)" x="459.4976312941578" y="0" width="0.5023687058421473" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.58994782681967" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="236.58994782681967" y="0" width="136.9305130011633" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="373.520460827983" y="0" width="37.947246337461465" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="411.4677071654445" y="0" width="21.712750245183518" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="433.18045741062804" y="0" width="11.764033976935194" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="444.94449138756323" y="0" width="6.8488943920267955" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="451.79338577959004" y="0" width="4.062392476201399" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.85577825579145" y="0" width="2.638993893233403" height="8" fill="#9DC3FF"/>
+                    <rect mask="url(#languages-bar)" x="458.4947721490248" y="0" width="0.5426572509953631" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.0374294000202" y="0" width="0.48774550535892763" height="8" fill="#00a6a6"/>
+                    <rect mask="url(#languages-bar)" x="459.5251749053791" y="0" width="0.47482509462094274" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2592,6 +2592,63 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">moxer-mmh/You_Can_Be</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ec4fd91</div>
+                                        <div class="message">fixed the course creation , and added a log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d1baab5</div>
+                                        <div class="message">edited the landing page</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">moxer-mmh/You_Can_Be</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a22669f</div>
+                                        <div class="message">i moved the language selector and the theme to the right of the Navbar
+i redesigned the language selector in small screen</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8662667</div>
+                                        <div class="message">fixed some translation issues, there is more to fix</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3dddf2d</div>
+                                        <div class="message">i added translation to ar fr en</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a950691</div>
+                                        <div class="message">i added dark mode</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">moxer-mmh/You_Can_Be</span>
                                     </div>
@@ -2646,49 +2703,6 @@ courses document not only pdf
 courses mage not displayed
 user profile photo not displayed
 i will fix them later</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/You_Can_Be</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bd411a7</div>
-                                        <div class="message">added the completion model, schema, service, and route
-added the enrollment model, schema, service, and route
-added the user_enrollment_update migration
-updated the user roles</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/You_Can_Be</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#815b0aa</div>
-                                        <div class="message">handled using postgres or sqlite , fixed alembic migration</div>
                                     </div>
                                 </div>
                             </section>
@@ -3384,7 +3398,7 @@ updated the user roles</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2025, 06:17:33  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Mar 2025, 07:12:40  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
