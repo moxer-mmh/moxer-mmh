@@ -20,7 +20,7 @@ jobs:
         #with:
           #path: ~/.cache
           #key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
-      - uses: moxer-mmh/metrics@master
+      - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
