@@ -20,7 +20,7 @@ jobs:
         #with:
           #path: ~/.cache
           #key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
-      - uses: lowlighter/metrics@latest # stalomeow/metrics@projects-v2  # stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10   # gh-metrics/metrics@master
+      - uses: gh-metrics/metrics@master # lowlighter/metrics@latest # stalomeow/metrics@projects-v2  # stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10   # gh-metrics/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:
