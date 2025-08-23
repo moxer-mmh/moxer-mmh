@@ -389,29 +389,29 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 333kb of code in 93 edited files across 31 commits over last 1 day</small>
+                <small>estimation from 371kb of code in 100 edited files across 33 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.6346904141225" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="227.6346904141225" y="0" width="220.68604020504924" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.3207306191718" y="0" width="11.42173312105254" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.7424637402243" y="0" width="0.2575362597757055" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.26517055775636" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="230.26517055775636" y="0" width="218.54833195921896" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="448.81350251697535" y="0" width="10.939827196739662" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.753329713715" y="0" width="0.246670286284998" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TSX
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        TSX
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2588,6 +2588,45 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#c906ecc</div>
+                                        <div class="message">feat: Implement comprehensive compliance testing and flexible API key management
+
+Major Features:
+- Enhanced test_app_comprehensive.py with comprehensive compliance test suites covering HIPAA, PCI DSS, GDPR, CCPA, and universal PII detection (27 total tests)
+- Implemented flexible API key management supporting both .env file configuration and frontend user input
+- Fixed .env file loading in Docker with proper env_file directive and updated default values
+
+Testing Coverage:
+- Basic functionality tests (6 tests)
+- Pattern detection tests (4 tests)
+- Presidio integration tests (3 tests)
+- SSE streaming tests (3 tests)
+- HIPAA compliance tests (2 tests)
+- PCI DSS compliance tests (2 tests)
+- GDPR compliance tests (2 tests)
+- CCPA compliance tests (2 tests)
+- Universal PII detection tests (2 tests)
+- Regional variations tests (1 test)
+
+This update provides a production-ready compliance testing framework with flexible deployment options for both development</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#4f1c305</div>
                                         <div class="message">feat: implement comprehensive responsive design with mobile navigation
 
@@ -2720,41 +2759,6 @@ with proper mobile navigation and responsive</div>
 
 Resolves: 'Behavior not supported, please either only include (VALIDATE=true)
 or exclude (VALIDATE=false) linters, but not both' error</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#98c6910</div>
-                                        <div class="message">fix: resolve remaining MyPy type checking errors for CI compliance
-
-- Fix Pydantic settings configuration by using SettingsConfigDict
-- Add type ignore comments for tiktoken encoding optional imports
-- Resolve SQLAlchemy declarative base class type issues with type ignore
-- Clean up unused DeclarativeMeta import
-- Update import structure for better type safety
-
-Addresses final MyPy errors from GitHub Actions CI:
-- assignment errors (lines 60, 94)
-- typeddict-unknown-key errors (line 94)
-- valid-type errors (lines 109, 125)
-- misc errors (lines 109, 125)
-
-MyPy now reports: "Success: no issues found in 1 source file"
-All tests pass and functionality preserved.</div>
                                     </div>
                                 </div>
                             </section>
@@ -2894,7 +2898,7 @@ All tests pass and functionality preserved.</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2025, 20:11:43  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2025, 21:09:37  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
