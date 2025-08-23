@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2019" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2052" class="">
     <defs>
         <style/>
     </defs>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    264 MB used
+                                    268 MB used
                                 </div>
                             </section>
                             <section>
@@ -389,16 +389,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 102kb of code in 25 edited files across 9 commits over last 0 days</small>
+                <small>estimation from 112kb of code in 36 edited files across 13 commits over last 0 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.8888729184206" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="301.8888729184206" y="0" width="151.75910145582225" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.6479743742428" y="0" width="6.238680930576374" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.88665530481916" y="0" width="0.1133446951807971" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="306.21457962062755" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="306.21457962062755" y="0" width="143.91819140300623" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.1327710236338" y="0" width="9.764221801319314" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.8969928249531" y="0" width="0.10300717504688506" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2588,6 +2588,82 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#17458b4</div>
+                                        <div class="message">Fix test output persistence across navigation
+
+- Added testOutput to DashboardState type and store
+- Implemented setTestOutput, appendTestOutput, clearTestOutput actions in store
+- Updated Dashboard Quick Actions to use persistent test output
+- Modified TestSuite component to use store instead of local state
+- Fixed issue where test output was cleared when navigating between pages
+- Test output now persists when running tests from Dashboard and switching to Test Suite page
+- All test output operations now use centralized store state</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#abaa2ac</div>
+                                        <div class="message">Fix dashboard functionality and data consistency
+
+Backend improvements:
+- Fixed pattern detection to collect all patterns from streaming session
+- Enhanced demo mode to record complete pattern/entity data in audit logs
+- Added session-wide pattern accumulation instead of single-token recording
+
+Frontend dashboard fixes:
+- Fixed Recent Activity to display actual entity/pattern counts instead of zeros
+- Improved Performance Metrics chart with realistic time windows and data
+- Enhanced Top Detection Patterns bar chart with better styling and gradients
+- Limited Recent Activity to 5 events for better UX
+
+Navigation and interaction improvements:
+- Fixed 'View All' button to properly navigate to Audit Logs using React Router
+- Added click-to-navigate functionality for individual events
+- Implemented auto-open event details when navigating from Recent Activity
+- Added URL parameter handling for direct event detail viewing
+
+Audit Logs enhancements:
+- Fixed data transformation to use backend-provided patterns_detected/entities_detected
+- Removed redundant JSON parsing that was causing data inconsistencies
+- Improved event detail display consistency between Dashboard and Audit Logs
+
+Data flow and consistency:
+- Synchronized Recent Activity and Audit Logs to show identical event information
+- Fixed pattern detection counts to display real-time accurate data
+- Improved audit event deduplication and state management
+- Enhanced metrics tracking and real-time updates</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#95c0bb3</div>
                                         <div class="message">feat: Complete compliance dashboard overhaul with professional UI and real-time functionality
 
@@ -2716,60 +2792,6 @@ Database features:
 
 All audit events now saved to compliance_audit.db with structured data
 suitable for regulatory compliance reviews and forensic analysis.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ff9f92e</div>
-                                        <div class="message">feat: implement comprehensive MetricsTracker system to fix dashboard integration
-
-- Add complete MetricsTracker class with real-time metrics collection
-- Implement tracking for requests, blocks, risk scores, and processing times
-- Add pattern and Presidio detection counters
-- Fix /metrics endpoint that was causing 500 errors (NameError: metrics not defined)
-- Integrate metrics recording into /assess-risk endpoint
-- Add performance metrics: avg processing time, requests/second, block rates
-- Enable frontend dashboard to display live compliance data
-- Support audit-ready metrics for HIPAA/PCI/GDPR compliance requirements
-
-Fixes critical issue where frontend dashboard couldn't connect to backend
-due to missing metrics infrastructure. Backend now provides real-time
-compliance monitoring data that matches test suite expectations.
-
-Tested with curl - confirmed metrics endpoint returns live data:
-- 2 total requests, 1 blocked (50% block rate)
-- Pattern detections working (email=1, ssn=1)
-- Processing time tracking operational
-- Frontend proxy serving metrics correctly</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Forked
-                                        <span class="repo">adorosario/blocking-responses-poc</span>
-                                        to
-                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
                                     </div>
                                 </div>
                             </section>
@@ -2909,7 +2931,7 @@ Tested with curl - confirmed metrics endpoint returns live data:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2025, 13:19:19  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2025, 14:09:43  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
