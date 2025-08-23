@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    268 MB used
+                                    272 MB used
                                 </div>
                             </section>
                             <section>
@@ -389,16 +389,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 209kb of code in 58 edited files across 19 commits over last 0 days</small>
+                <small>estimation from 211kb of code in 61 edited files across 25 commits over last 1 day</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.11443102663384" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="227.11443102663384" y="0" width="217.233918615295" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.34834964192885" y="0" width="15.597609269221543" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="459.9459589111504" y="0" width="0.054041088849619896" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.61744771494966" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="224.61744771494966" y="0" width="219.90298218435322" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.5204298993029" y="0" width="15.426123160340822" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="459.9465530596437" y="0" width="0.053446940356312936" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2588,6 +2588,106 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#1357339</div>
+                                        <div class="message">fix: resolve Super-Linter configuration issue in CI workflow
+
+- Remove conflicting VALIDATE_PYTHON_BLACK and VALIDATE_PYTHON_ISORT false settings
+- Use VALIDATE_ALL_CODEBASE=false with VALIDATE_DOCKERFILE_HADOLINT=true
+- This fixes the Super-Linter v4 requirement to not mix include/exclude validation
+
+Resolves: 'Behavior not supported, please either only include (VALIDATE=true)
+or exclude (VALIDATE=false) linters, but not both' error</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#98c6910</div>
+                                        <div class="message">fix: resolve remaining MyPy type checking errors for CI compliance
+
+- Fix Pydantic settings configuration by using SettingsConfigDict
+- Add type ignore comments for tiktoken encoding optional imports
+- Resolve SQLAlchemy declarative base class type issues with type ignore
+- Clean up unused DeclarativeMeta import
+- Update import structure for better type safety
+
+Addresses final MyPy errors from GitHub Actions CI:
+- assignment errors (lines 60, 94)
+- typeddict-unknown-key errors (line 94)
+- valid-type errors (lines 109, 125)
+- misc errors (lines 109, 125)
+
+MyPy now reports: "Success: no issues found in 1 source file"
+All tests pass and functionality preserved.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9d5ad3e</div>
+                                        <div class="message">fix: resolve MyPy type checking errors for CI/CD pipeline
+
+- Add Optional type annotations for function parameters (model, api_key)
+- Fix ChatOpenAI API key type compatibility with SecretStr wrapper
+- Add explicit type annotation for token_buffer deque variable
+- Fix ChatRequest instantiation with all required fields in legacy endpoint
+- Resolve JSON loads type issues with SQLAlchemy Column string conversion
+- Add Dict[str, Any] type annotation for COMPLIANCE_POLICY
+- Import SecretStr from pydantic and clean up unused imports
+
+Fixes all MyPy errors from GitHub Actions workflow:
+- operator/index type errors (lines 371, 372, 400, 571)
+- assignment type errors (lines 861, 893)
+- arg-type errors (lines 879, 934)
+- call-arg errors (line 1332)
+- var-annotated errors (line 1101)
+- JSON loads type errors (lines 1031, 1061, 1844, 1877)
+
+All tests continue to pass and functionality is preserved.</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#a94030e</div>
                                         <div class="message">feat: fix formatting and linting and fix CI/CD pipeline
 
@@ -2622,116 +2722,6 @@ Breaking Changes:
                                     <div class="commit">
                                         <div class="sha">#0b08788</div>
                                         <div class="message"> i formatted the files</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#9e3b9bc</div>
-                                        <div class="message">feat: Add OpenAI API key configuration and real-time data integration
-
-- Add OpenAI API key input field in settings modal with localStorage persistence
-- Enable frontend to pass API keys to backend for dynamic OpenAI configuration
-- Replace mock data with real audit log data throughout the application
-- Implement proper modal system for settings and notifications with animations
-- Create NotificationManager utility for persistent real notification system
-- Update MetricsChart to use actual request timestamps from audit logs instead of periodic snapshots
-- Fix navbar functionality with working settings and notification buttons
-- Add historical metrics support in dashboard store for time-based charts
-- Update API client to support API key parameter in streaming requests
-- Enhance backend to accept per-request API keys alongside environment variables
-
-This enables users to configure OpenAI API keys through the UI while providing
-meaningful real-time visualizations based on actual request activity.</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#17458b4</div>
-                                        <div class="message">Fix test output persistence across navigation
-
-- Added testOutput to DashboardState type and store
-- Implemented setTestOutput, appendTestOutput, clearTestOutput actions in store
-- Updated Dashboard Quick Actions to use persistent test output
-- Modified TestSuite component to use store instead of local state
-- Fixed issue where test output was cleared when navigating between pages
-- Test output now persists when running tests from Dashboard and switching to Test Suite page
-- All test output operations now use centralized store state</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">moxer-mmh/blocking-responses-poc</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#abaa2ac</div>
-                                        <div class="message">Fix dashboard functionality and data consistency
-
-Backend improvements:
-- Fixed pattern detection to collect all patterns from streaming session
-- Enhanced demo mode to record complete pattern/entity data in audit logs
-- Added session-wide pattern accumulation instead of single-token recording
-
-Frontend dashboard fixes:
-- Fixed Recent Activity to display actual entity/pattern counts instead of zeros
-- Improved Performance Metrics chart with realistic time windows and data
-- Enhanced Top Detection Patterns bar chart with better styling and gradients
-- Limited Recent Activity to 5 events for better UX
-
-Navigation and interaction improvements:
-- Fixed 'View All' button to properly navigate to Audit Logs using React Router
-- Added click-to-navigate functionality for individual events
-- Implemented auto-open event details when navigating from Recent Activity
-- Added URL parameter handling for direct event detail viewing
-
-Audit Logs enhancements:
-- Fixed data transformation to use backend-provided patterns_detected/entities_detected
-- Removed redundant JSON parsing that was causing data inconsistencies
-- Improved event detail display consistency between Dashboard and Audit Logs
-
-Data flow and consistency:
-- Synchronized Recent Activity and Audit Logs to show identical event information
-- Fixed pattern detection counts to display real-time accurate data
-- Improved audit event deduplication and state management
-- Enhanced metrics tracking and real-time updates</div>
                                     </div>
                                 </div>
                             </section>
@@ -2871,7 +2861,7 @@ Data flow and consistency:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Aug 2025, 15:09:54  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Aug 2025, 16:12:07  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
