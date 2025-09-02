@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2393" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2121" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.blue,.markdown a{color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -389,21 +389,21 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 7.98mb of code in 2392 edited files across 132 commits over last 10 days</small>
+                <small>estimation from 8.06mb of code in 2403 edited files across 137 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="253.27837814898692" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="253.27837814898692" y="0" width="167.8176042681322" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="421.0959824171191" y="0" width="20.56027814436016" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="441.65626056147926" y="0" width="12.636497592097632" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.29275815357687" y="0" width="3.3257946905116973" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.6185528440886" y="0" width="0.8005811935118851" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.41913403760043" y="0" width="0.797057508681287" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.2161915462817" y="0" width="0.6143896870630822" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.83058123334484" y="0" width="0.16941876665515596" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.93710867286427" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="250.93710867286427" y="0" width="170.512073329146" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="421.4491820020103" y="0" width="20.37664549028727" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="441.82582749229755" y="0" width="12.519687597049131" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="454.3455150893467" y="0" width="3.295051515157955" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.6405666045046" y="0" width="0.7931807342811147" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="458.43374733878574" y="0" width="0.7896896218943139" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.22343696068003" y="0" width="0.6087103557625667" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.8321473164426" y="0" width="0.16785268355737673" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2602,6 +2602,38 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">benchmark-infrastructure-setup</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#938844a</div>
+                                        <div class="message">add sentence-transformers dependency</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee0803c</div>
+                                        <div class="message">add graceful fallback for semantic matching dependencies</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f6c6d9e</div>
+                                        <div class="message">enhance nlq pipeline with semantic matching and agentic reasoning</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c953345</div>
+                                        <div class="message">fix frontend API proxy configuration</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">adorosario/nlq-poc-with-saif</span>
                                     </div>
@@ -2675,610 +2707,6 @@
                                         <span class="code">benchmark-infrastructure-setup</span>
                                         in
                                         <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 27 commits in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#54e9239</div>
-                                        <div class="message">refactor: replace cluttered homepage with clean RAG/NLQ focused interface
-
-🧹 Simplified Homepage:
-- Removed all distracting business elements and fake buttons
-- Eliminated non-functional features and excessive navigation
-- Focused purely on RAG and NLQ functionality
-- Clean, minimal design without business-oriented clutter
-
-✨ Clean Interface Features:
-- Simple header with just theme toggle and "New Project" button
-- Minimal collapsible sidebar with only Projects and Settings
-- Clean project grid showing only essential info (documents, queries)
-- Clear RAG/NLQ indicators on project cards
-- Simple search functionality that actually works
-
-🎯 Core Functionality Only:
-- Project creation and management
-- RAG/NLQ capability indicators
-- Working theme switching
-- Functional project search
-- Clean project cards with essential stats
-- No fake metrics or business jargon
-
-📱 Streamlined Design:
-- Removed excessive color gradients and animations
-- Clean white/slate color scheme
-- Focused typography without distractions
-- Responsive layout that works on all devices
-- Minimal visual elements for maximum clarity
-
-The homepage now serves its actual purpose: managing RAG and NLQ projects
-without unnecessary complexity or non-functional elements.
-
-🧩 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2910ddb</div>
-                                        <div class="message">feat: integrate business-focused enhanced main page with professional layout
-
-🏢 Business-Focused Main Page Integration:
-- Integrated EnhancedHomePage as the new default route
-- Added BusinessHeader with project name, settings, theme toggle, language selector
-- Created BusinessSidebar with categorized navigation (Main, Analytics, Management, Support)
-- Built ProjectDashboard with advanced filtering, search, and business metrics
-
-💼 Professional Features for Business Users:
-- Header: Quick search, language selection (5 languages), theme toggle, profile menu
-- Sidebar: Collapsible design, growth status card, quick navigation categories
-- Dashboard: Business metrics overview, grid/list views, priority badges, growth indicators
-- Color Scheme: Professional blue/purple gradients optimized for business efficiency
-
-🎨 Business Design System:
-- Added business.css with professional color palette and typography
-- Clean card designs with hover effects and smooth transitions
-- Accessibility features: keyboard navigation, screen reader support
-- Responsive design for mobile, tablet, and desktop
-
-🔧 Technical Integration:
-- Updated App.tsx to use EnhancedHomePage as default route
-- Fixed TypeScript compilation errors and removed unused imports
-- Successful build with all components properly integrated
-- Development server ready at http://localhost:3000
-
-The main page now provides a professional, business-focused interface designed for
-executives and business users who need quick access to analytics and insights without
-distractions, featuring efficient navigation and clear visual hierarchy.
-
-🧩 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f6a307</div>
-                                        <div class="message">chore: reorganize project structure and clean up legacy files
-
-📁 Project Restructuring:
-- Moved datasets/ to backend/datasets/ for better organization
-- Moved docs/ to backend/docs/ to keep documentation with backend
-- Added vercel.json for deployment configuration
-
-🧹 Cleanup:
-- Removed legacy benchmark reports and scripts
-- Deleted old .DS_Store files and unused static assets
-- Removed deprecated Streamlit UI (ui/streamlit_app.py)
-- Cleaned up old .env-sample file
-
-🔧 Backend Updates:
-- Updated backend/.gitignore for new structure
-- Modified backend/docker.env configuration
-
-This reorganization improves the project structure by consolidating
-backend-related files and removing obsolete benchmark/testing artifacts.
-
-🧩 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#00da74e</div>
-                                        <div class="message">feat: complete modern frontend transformation with ChatGPT-style interface
-
-🎨 Frontend Transformation:
-- Complete conversion from Next.js to Vite + React + TypeScript
-- Modern ChatGPT/Claude-style chat interface with message bubbles
-- Professional UI design with dark/light theme system
-- Comprehensive project management with file upload capabilities
-
-🚀 New Features:
-- Project creation and selection main page (ModernHomePage)
-- Project detail pages with tabs for Overview/Documents/Conversations (ModernProjectPage)
-- Modern conversation interface with RAG/NLQ configuration (ModernConversationPage)
-- Multi-file upload support (PDF, CSV, Excel, NoSQL, SQL, etc.)
-- Real-time chat with loading states and rich content display
-- Toast notification system for user feedback
-- Responsive design with glass morphism effects
-
-🔧 Technical Improvements:
-- Complete backend API integration (no mock data)
-- Fixed all TypeScript compilation errors
-- Added Shadcn/ui components: Avatar, Checkbox, Dialog, Tabs, ScrollArea
-- Modern build system with Vite for fast development
-- React Query for efficient API caching and state management
-- Professional color scheme with blue/purple gradients
-
-🎯 User Experience:
-- Intuitive navigation with breadcrumbs and routing
-- Drag-and-drop file uploads with progress tracking
-- Real-time query processing with visual feedback
-- Support for markdown, charts, SQL queries, and data tables
-- Keyboard shortcuts and accessibility improvements
-
-🧩 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b79ccc4</div>
-                                        <div class="message">fixed the frontend to use Vite instead of Next.js</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9a14d64</div>
-                                        <div class="message">Merge pull request #3 from adorosario/nlq-frontend
-
-  🚀 Agentic NLQ Pipeline: Multi-Step Reasoning with LangGraph</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffdb917</div>
-                                        <div class="message">feat: implement agentic NLQ pipeline with LangGraph multi-step reasoning
-
-This commit implements a sophisticated agentic Natural Language Query (NLQ) system
-using LangGraph that can handle complex, multi-step SQL queries through iterative
-reasoning and refinement.
-
-## 🚀 New Features
-
-### Agentic NLQ Agent (LangGraph)
-- **Multi-step workflow**: Analysis → Schema exploration → SQL generation →
-  Execution → Validation → Refinement → Finalization
-- **Intelligent complexity detection**: Automatically routes complex queries to
-  agentic processing based on query patterns
-- **Self-correcting**: Can refine and retry failed queries up to 5 steps
-- **Schema-aware**: Dynamically explores database structure for context
-
-### Enhanced NLQ Service
-- **Dual processing paths**: Simple queries use standard 1-step processing,
-  complex queries use agentic 6-step processing
-- **Performance optimized**: Simple queries ~1s, complex queries ~17s
-- **Business intelligence**: Enhanced explanations and automatic chart generation
-
-### Observability &amp; Benchmarking
-- **Langfuse integration**: LLM request tracing framework (optional)
-- **Comprehensive benchmarking**: TPC-H dataset with automated metrics
-- **Real performance data**: Tracks routing accuracy, SQL generation quality
-
-## 🔧 Technical Implementation
-
-### Complex Query Detection
-Queries are classified as complex based on:
-- Multiple complexity indicators (compare, versus, top, trend, etc.)
-- Multiple aggregation functions
-- Multi-dimensional grouping (multiple "by" clauses)
-- Query length and pattern analysis
-
-### Agentic Workflow Steps
-1. **Query Analysis**: LLM analyzes complexity and requirements
-2. **Schema Exploration**: Dynamic discovery of relevant tables/columns
-3. **SQL Generation**: Context-aware SQL creation with schema information
-4. **Execution**: Query execution with error handling
-5. **Validation**: Result quality assessment
-6. **Refinement**: Iterative improvement based on errors/results
-
-### Business Intelligence Enhancements
-- **BusinessResultsDisplay**: New React component for executive-friendly data presentation
-- **Auto-generated charts**: Bar/pie charts based on data structure
-- **Business insights panel**: Key metrics and actionable information
-- **Developer mode toggle**: Technical details hidden by default
-
-## 📊 Performance Impact
-
-- **Complexity detection accuracy**: 100% on test queries
-- **Agentic processing**: Handles queries like "Compare top 3 regions by sales and show growth trends"
-- **Fallback robustness**: Graceful degradation to standard processing if needed
-- **Chart generation**: Automatic visualization for appropriate datasets
-
-## 🔧 Dependencies Added
-- `langgraph`: State-machine orchestration for agentic workflows
-- `langchain-experimental`: Advanced LangChain features
-- Enhanced observability with optional Langfuse tracing
-
-This addresses the key job requirement: "Focus on how good the NLQ pipeline is...
-if user asks complicated NLQ questions, then does the NLQ pipeline handle it well?"
-
-The system now handles both simple single-table queries and complex multi-step
-analytical questions with enterprise-grade reliability and performance.
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd47615</div>
-                                        <div class="message">feat: complete Next.js 15 ChatGPT-style frontend transformation
-
-Frontend Features:
-- Modern ChatGPT-like chat interface with message history
-- Manual NLQ/RAG toggle checkboxes for query routing control
-- Complete project management with create/select functionality
-- File upload system supporting PDF, CSV, Excel, JSON formats
-- Process Data button with loading states and ingestion feedback
-- Professional dark/light theme system with system preference detection
-- Conversation persistence using localStorage
-- Document status tracking with ingestion progress indicators
-
-Architecture:
-- Next.js 15 with App Router and dynamic routing
-- TypeScript with proper type definitions
-- Tailwind CSS with shadcn/ui components
-- Responsive design optimized for desktop and mobile
-- Clean component organization with hooks and providers
-- Comprehensive error handling and loading states
-
-UI/UX Improvements:
-- Professional color scheme and typography
-- Smooth transitions and hover effects
-- Proper accessibility with ARIA labels
-- Keyboard shortcuts and navigation
-- Status indicators for all operations
-- Toast notifications for user feedback
-
-Integration:
-- Full API integration with FastAPI backend
-- Project-specific data isolation
-- Real-time status updates for file processing
-- Seamless conversation switching and persistence
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#65000c6</div>
-                                        <div class="message">feat: complete CSV ingestion system and fix NLQ routing
-
-Backend improvements:
-- Add CSV ingestion API endpoint for processing uploaded files into DuckDB
-- Fix NLQ service dialect error by bypassing LangChain chain creation
-- Switch from EnhancedNLQService to basic NLQService for stability
-- Add database/table-related keywords to router for better NLQ detection
-- Implement native DuckDB mode for reliable table creation
-
-Frontend transformation:
-- Complete Next.js 15 migration with modern ChatGPT-like interface
-- Add manual NLQ/RAG toggle checkboxes for query routing control
-- Implement Process Data button with loading states and feedback
-- Add comprehensive project and conversation management
-- Support for file uploads with multiple formats (PDF, CSV, Excel, JSON)
-- Dark/light theme system with localStorage persistence
-- Professional UI with proper error handling and status indicators
-
-Features working:
-- CSV files ingest into DuckDB tables (10/10 files successful)
-- Manual query routing bypasses automatic classification
-- Document upload and status tracking
-- Conversation persistence with localStorage
-- Complete project isolation with per-project databases
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5df05e8</div>
-                                        <div class="message">feat: ChatGPT/Claude-level modern chat interface transformation 🚀
-
-Complete redesign to match modern AI chat applications:
-
-💬 **Chat-First Design:**
-- **Full-Screen Chat Layout**: Sidebar + main chat area like ChatGPT/Claude
-- **Conversational Flow**: User messages (right) and AI responses (left)
-- **Message Bubbles**: Proper chat bubbles with rounded corners
-- **Auto-Scroll**: Smooth scrolling to latest messages
-- **Typing Experience**: Auto-resizing textarea with Enter to send
-
-🎨 **Modern Visual Design:**
-- **Clean Sidebar**: Collapsible sidebar with project/settings management
-- **Professional Header**: Bot avatar, connection status, settings
-- **Message Avatars**: User and Bot avatars for clear conversation flow
-- **Syntax Highlighting**: Beautiful SQL code blocks with copy functionality
-- **Markdown Support**: Rich text rendering for AI responses
-
-⚡ **Enhanced UX Features:**
-- **Welcome Screen**: Example prompts to get users started
-- **Copy to Clipboard**: One-click copy for SQL queries
-- **Pipeline Badges**: Clear indicators for NLQ vs RAG responses
-- **Toast Notifications**: Modern feedback with Sonner
-- **Responsive Design**: Perfect on desktop and mobile
-
-🛠 **Technical Improvements:**
-- **React Markdown**: Proper markdown rendering for rich responses
-- **Syntax Highlighter**: Professional code highlighting with themes
-- **Framer Motion**: Smooth animations and transitions
-- **Smart Scrolling**: Auto-scroll to new messages
-- **Keyboard Shortcuts**: Enter to send, Shift+Enter for new line
-
-This now provides the **exact same experience as ChatGPT or Claude**:
-- Professional chat interface
-- Collapsible sidebar with settings
-- Message history and threading
-- Rich content rendering
-- Modern, clean aesthetics
-
-Perfect for enterprise use with the polish of consumer AI apps! 🎊
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6478a53</div>
-                                        <div class="message">feat: revolutionary modern UI redesign with ShadCN + Framer Motion
-
-🎨 **Complete UI Transformation:**
-- **Floating Glass Header**: Glassmorphism with backdrop blur effects
-- **3-Column Modern Layout**: Professional grid system (lg:col-span)
-- **Gradient Typography**: Text gradients with bg-clip-text
-- **Status Indicators**: Live connection status with animated pulse
-
-✨ **Premium ShadCN Components:**
-- **Tabs Component**: Professional tabbed interface for results
-- **Badge System**: Contextual status indicators with variants
-- **Separator**: Clean visual hierarchy
-- **Enhanced Cards**: Backdrop blur with shadow effects
-
-🚀 **Framer Motion Animations:**
-- **Entrance Animations**: Staggered component loading
-- **Hover Effects**: Scale transforms and smooth transitions
-- **Page Transitions**: AnimatePresence for smooth state changes
-- **Micro-interactions**: Button hover states and click feedback
-
-💎 **Modern Design System:**
-- **Color Palette**: Violet/purple/pink gradients + semantic colors
-- **Typography**: Large, readable text with proper hierarchy
-- **Spacing**: Consistent 6-8px gap system
-- **Icons**: Lucide React with contextual meanings
-
-🎯 **Interactive Features:**
-- **Smart Toast Notifications**: Sonner integration with promises
-- **Loading States**: Skeleton loading with proper feedback
-- **Error Handling**: Beautiful error states with context
-- **Responsive Design**: Mobile-first responsive grid
-
-📱 **Enhanced UX Patterns:**
-- **Visual Feedback**: Immediate response to all user actions
-- **Progressive Disclosure**: Collapsible sections and tabs
-- **Status Communication**: Clear pipeline type indicators
-- **Data Visualization**: Metrics cards with gradients
-
-This transforms the basic UI into a **cutting-edge, enterprise-grade interface**
-that rivals modern SaaS applications like Linear, Vercel, or Stripe Dashboard.
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52869bb</div>
-                                        <div class="message">feat: complete modern UI/UX redesign - enterprise-grade interface
-
-Major visual overhaul with modern design principles:
-
-🎨 Design System:
-- Gradient backgrounds and glass-morphism effects
-- Professional color palette with semantic color coding
-- Consistent spacing and modern typography
-- Smooth animations and micro-interactions
-
-🚀 Layout &amp; Navigation:
-- Sticky header with connection status indicator
-- 4-column responsive grid layout (XL screens)
-- Improved information hierarchy and visual flow
-- Better use of whitespace and visual grouping
-
-💎 Components:
-- Redesigned cards with backdrop blur and shadows
-- Modern gradient buttons with hover effects
-- Enhanced project selection with visual indicators
-- Professional route selection with descriptions
-- Larger, more prominent query interface
-- Code syntax highlighting for SQL queries
-- Improved data table presentation
-- Streamlined history sidebar
-
-✨ Interactive Elements:
-- Hover states and scale transforms
-- Loading indicators and status animations
-- Visual feedback for all user actions
-- Character count and input validation
-
-🎯 Professional Features:
-- Enterprise-grade visual hierarchy
-- Consistent icon usage with color coding
-- Modern metrics display with gradient cards
-- Enhanced error and success states
-
-Transforms the 90s-style interface into a contemporary,
-professional application suitable for enterprise use.
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f41ff3b</div>
-                                        <div class="message">fix: resolve RootState type import error
-
-- Fix RootState import using type-only import syntax
-- Ensure proper TypeScript type imports for Redux store types
-- Resolve module export/import issues in NLQTester component
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5970bd</div>
-                                        <div class="message">fix: resolve QueryResponse type import error
-
-- Fix QueryResponse import using type-only import syntax
-- Ensure proper TypeScript type imports for ESM compatibility
-- Resolve module export/import issues with RTK Query types
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2d7ec3</div>
-                                        <div class="message">fix: resolve Redux Toolkit PayloadAction import error
-
-- Fix PayloadAction type import using separate type import
-- Resolve CSS @apply directive issues with TailwindCSS v4
-- Replace @apply with direct CSS properties for custom variables
-- Clean up multiple dev server instances
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#542eb89</div>
-                                        <div class="message">fix: resolve TailwindCSS v4 PostCSS plugin compatibility
-
-- Install @tailwindcss/postcss package for v4 compatibility
-- Fix border-border utility class error by using direct CSS property
-- Update PostCSS configuration to work with TailwindCSS v4
-- Resolve frontend build issues and hot module reload
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1c4b57f</div>
-                                        <div class="message">feat: add React frontend for NLQ pipeline testing
-
-Implemented comprehensive React TypeScript frontend with:
-- Vite + React + TypeScript setup
-- Redux Toolkit with RTK Query for state management
-- TailwindCSS with ShadCN UI components
-- Project selection and management interface
-- Route forcing controls (Auto, NLQ, RAG)
-- Real-time query processing with loading states
-- Results display with SQL queries and data tables
-- Query history tracking with success indicators
-- Full API integration with FastAPI backend
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0616143</div>
-                                        <div class="message">style: improve code formatting and type hints in enhanced NLQ service
-
-- Update type annotations to modern Python syntax (List -&gt; list, Dict -&gt; dict)
-- Improve code formatting and spacing consistency
-- Better import organization and structure
-- Enhanced readability while maintaining functionality
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#daf0184</div>
-                                        <div class="message">feat: implement production-ready NLQ pipeline with 100% accuracy
-
-Major improvements to Natural Language Query processing:
-
-## Core Achievement
-- ✅ **100% accuracy** on diverse NLQ queries (exceeds 90% target)
-- ⚡ **19x performance improvement** (4.2s avg vs 19s+ original)
-- 🎯 **Production-ready** pipeline with robust error handling
-
-## New Streamlined NLQ Service
-- Single LLM call architecture (vs 6-stage over-engineered approach)
-- Smart schema reflection with multiple fallback strategies
-- Comprehensive SQL generation for all query types:
-  * Aggregations: SUM, COUNT, AVG, MIN, MAX
-  * Filtering: WHERE conditions with temporal/categorical filters
-  * Grouping: GROUP BY with multiple dimensions
-  * Ranking: ORDER BY with TOP/LIMIT functionality
-  * Analytics: Complex multi-table analysis
-
-## Performance Optimizations
-- Eliminated unnecessary multi-stage LLM processing
-- Streamlined schema reflection (information_schema → PRAGMA fallback)
-- Fast SQL execution with intelligent retry logic
-- Reduced average response time from 19s to 4.2s
-
-## Reliability Improvements
-- Fixed timezone-aware datetime handling in project service
-- Enhanced test isolation with proper fixture setup
-- Robust error handling with graceful degradation
-- Smart schema fallbacks for different database states
-
-## Test Coverage &amp; Quality
-- 42 passing tests (vs 32 originally)
-- Comprehensive unit tests for streamlined service
-- End-to-end workflow validation
-- Real-world query testing with sample datasets
-
-## Verified Query Types
-- "What is the total sales amount?" → SELECT SUM(amount) FROM sales
-- "How many products are there?" → SELECT COUNT(DISTINCT product) FROM sales
-- "Show sales by region" → SELECT region, SUM(amount) FROM sales GROUP BY region
-- "Which product had highest sales?" → SELECT product, amount FROM sales ORDER BY amount DESC LIMIT 1
-- Quarterly analysis, date filtering, multi-dimensional grouping
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1ef581</div>
-                                        <div class="message">feat: implement enhanced NLQ pipeline with 90%+ accuracy target
-
-- Created EnhancedNLQService with multi-stage branching logic:
-  * Query analysis and complexity assessment
-  * Multi-path SQL generation (conservative, standard, advanced)
-  * Advanced validation and self-correction
-  * Intelligent retry with error fixing
-  * Result verification and enhancement
-
-- Enhanced API endpoints to use new service
-- Comprehensive test suite with unit and integration tests
-- Advanced benchmark script with real-world test scenarios
-- Fixed DuckDB transaction handling and timeout issues
-- Added batch SQL execution for better performance
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -3433,7 +2861,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2025, 03:34:22  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Sept 2025, 04:14:31  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
