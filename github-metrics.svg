@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2204" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2473" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.large .largeable{width:474px}svg.large .largeable&gt;.row{width:100%}svg.large .column.largeable,svg.large .largeable-inline-flex,svg.large .row.largeable{display:inline-flex}svg.large .largeable-column-fields,svg.large .largeable-flex-wrap{display:flex;flex-wrap:wrap}svg.large .largeable-column-fields&gt;.field{width:230px}svg.large .chart.largeable{width:458px}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.large .activity .field{max-width:900px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -389,21 +389,21 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.59mb of code in 2535 edited files across 145 commits over last 12 days</small>
+                <small>estimation from 10.5mb of code in 2715 edited files across 166 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="251.42925568604483" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="251.42925568604483" y="0" width="172.84821275033346" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="424.2774684363783" y="0" width="19.16790854320842" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="443.44537697958674" y="0" width="11.274855642958512" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="454.72023262254527" y="0" width="2.9674246966253492" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="457.68765731917057" y="0" width="0.8262408991705604" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="458.5138982183411" y="0" width="0.7111708196057107" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.2250690379468" y="0" width="0.5481863134679563" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.7732553514148" y="0" width="0.2267446485851629" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.10553150231524" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="167.10553150231524" y="0" width="158.6628441517193" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="325.76837565403457" y="0" width="104.8488824994567" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="430.61725815349126" y="0" width="12.739422610788854" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="443.35668076428016" y="0" width="10.045468982464353" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.4021497467445" y="0" width="5.425352301031411" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.82750204777585" y="0" width="0.5491382624830745" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.37664031025895" y="0" width="0.47266010263954134" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.8493004128985" y="0" width="0.15069958710151954" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -417,6 +417,12 @@
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -447,12 +453,6 @@
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2607,6 +2607,422 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 35 commits in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#09efa3e</div>
+                                        <div class="message">fix(api): align endpoints with expected service responses
+
+- Fix dependency injection mocking using FastAPI app.dependency_overrides
+- Replace broken patch() approach with proper service layer mocking
+- Update Path import patching for benchmarks filesystem operations
+- Align HTTP status codes and JSON response formats with frontend expectations
+- Ensure proper test isolation for API endpoint testing
+- Improve test success rate from 41% to 82% (42 failed → 11 failed tests)
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c9618e</div>
+                                        <div class="message">fix(sql_validator): correct error classification and fix method return structures
+
+- Fixed error classification to match test expectations (e.g., "syntax error" vs "syntax_error")
+- Updated classification logic to prioritize specific patterns over general ones
+- Added missing 'strategy' and 'confidence' fields to all fix method return structures
+- Enhanced schema validation to handle both test format and production format schemas
+- Improved column validation to handle qualified references (table.column) and table aliases
+- Fixed pattern matching for "doesn't exist" vs "does not exist" variations
+- Added expected fields like 'suggested_columns' and 'suggested_tables'
+- All 50 SQLValidator unit tests now pass successfully
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ba895a1</div>
+                                        <div class="message">fix(vector_client): correct mocks and collection setup in integration tests
+
+- Fixed patched_get_collection() method to include proper self parameter handling
+- Created global VectorClient.get_collection patching for all instances using monkey patching
+- Updated vector_client fixture to use global patching approach
+- Enhanced empty documents handling to create collections gracefully
+- Fixed metadata sanitization to filter out None values that ChromaDB rejects
+- Updated duplicate ID test to match ChromaDB's actual upsert behavior
+- Fixed all collection setup issues ensuring tests are idempotent
+- All 33 vector integration tests now pass successfully
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9e741c4</div>
+                                        <div class="message">fix(nlq): align NLQService and NLQAgent methods to test expectations
+
+- Added missing fields to NLQResult model (error, generated_sql, is_valid, is_reasonable, query, chart_data)
+- Fixed method signatures for _process_standard_query and _generate_explanation
+- Updated state transitions in NLQAgent to match test expectations (execute_sql, refine_query, finalize_result)
+- Enhanced agent state updates to include expected fields in intermediate_results
+- Fixed LangGraph initialization to satisfy test expectations while maintaining functionality
+- Improved _extract_refinement_strategy to parse REFINEMENT_STRATEGY blocks
+- Updated _is_complex_query to better detect complex queries with semantic analysis
+
+Reduced failing tests from 37 to 28 by fixing schema mismatches and method signatures.
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0e7a563</div>
+                                        <div class="message">chore: update dependencies after semantic feature implementation
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4a23495</div>
+                                        <div class="message">feat: add semantic query support with fuzzy column matching and synonyms
+
+- Integrate SemanticMatchingService into AgenticNLQAgent workflow
+- Add semantic processing node between query analysis and schema exploration
+- Enhance schema mapping with business terms, fuzzy matching, and implicit joins
+- Include semantic results in SQL generation context for improved accuracy
+- Add semantic analysis state tracking with enhanced context generation
+- Process synonyms, cross-table references, and join suggestions automatically
+- Provide semantic insights to LLM for better SQL generation
+
+Integration Features:
+- Fuzzy column name matching with 76.42% test coverage ✅
+- Business term synonyms resolution ✅
+- Implicit table relationships detection ✅
+- Cross-table reference resolution ✅
+- Semantic benchmark: 100% success rate, 73.1% accuracy ✅
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#938b195</div>
+                                        <div class="message">test(semantic): add benchmark suite for semantic queries
+
+- Create comprehensive benchmark suite with 16 synthetic + real queries
+- Implement semantic success rate evaluation with 5 key metrics
+- Build pytest test harness for automated performance testing
+- Add CLI runner for manual benchmarks and CI/CD integration
+- Achieve &gt;80% success rate target: 100% success, 73.1% semantic accuracy
+- Include query complexity levels: simple, medium, complex, advanced
+- Cover real-world scenarios: ecommerce, CRM, financial, operational
+- Provide detailed reporting with JSON and markdown outputs
+
+Performance Results:
+- Success Rate: 100% (target: &gt;80%) ✅
+- Semantic Accuracy: 73.1% (excellent) ✅
+- Processing Time: 0.002s avg ✅
+- All complexity levels: 100% success ✅
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#731a592</div>
+                                        <div class="message">feat(semantic): add support for implicit table relationships in NLQ
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#060a718</div>
+                                        <div class="message">feat(semantic): add business term synonyms support
+
+- Add comprehensive business terms dictionary in JSON format with:
+  - Column synonyms (revenue/turnover/sales → total_sales)
+  - Phrase mappings (total revenue → total_sales)
+  - Business contexts (sales, customers, products, financial)
+  - Domain-specific terms (ecommerce, crm, finance, hr)
+
+- Implement business term resolution system:
+  - Load configurable terms from JSON with fallback to defaults
+  - Extract business terms from natural language queries
+  - Resolve synonyms to canonical terms
+  - Map canonical terms to actual schema columns
+  - Support exact, fuzzy, and context-based column matching
+
+- Add comprehensive testing suite with 23 test cases:
+  - Synonym resolution (revenue→total_sales, client→customer)
+  - Multi-word phrase mapping (total revenue→total_sales)
+  - Custom business terms addition and merging
+  - Error handling for malformed/missing config files
+  - End-to-end NLQ query processing scenarios
+
+- Key features:
+  - Configurable via app/config/business_terms.json
+  - Extensible with add_custom_business_terms() method
+  - Integration with existing fuzzy column matching
+  - Business context-aware column resolution
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0d180a9</div>
+                                        <div class="message">feat(semantic): add fuzzy column name matching with tests
+
+- Add rapidfuzz dependency for fuzzy string matching
+- Implement fuzzy_match_columns method with:
+  - Exact case-insensitive matching
+  - Common abbreviation expansion (cust→customer, rev→revenue, etc.)
+  - Multiple fuzzy matching strategies (ratio, partial, token-based)
+  - Configurable similarity threshold
+- Add column name normalization (camelCase→snake_case, special chars)
+- Include comprehensive unit tests covering:
+  - Exact matches and typo handling
+  - Revenue→total_sales, cust_id→customer_id mappings
+  - Edge cases and error conditions
+- Provide column mapping suggestions for interactive correction
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2bd558f</div>
+                                        <div class="message">test(api): add endpoint tests for projects, query, and benchmarks
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6f60e73</div>
+                                        <div class="message">test(router): add router service tests
+
+- Add comprehensive unit tests for RouterService with 32 test cases
+- Test routing logic for NLQ vs RAG decisions based on query patterns
+- Cover schema-aware routing with database integration
+- Test error handling, fallback paths, and edge cases
+- Add mocks for dependent services (DuckDBClient, ProjectService)
+- Include integration tests with realistic e-commerce schema
+- Achieve 72.40% coverage of router service functionality
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f531dd1</div>
+                                        <div class="message">test(services): add unit tests for chart and RAG services
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#90f7678</div>
+                                        <div class="message">test(semantic): add tests for semantic matching service + embeddings utils
+
+- Comprehensive unit tests for app/utils/embeddings.py covering all functions
+- Tests for OpenAI embeddings integration with proper mocking
+- Error handling tests for API failures and connection issues
+- Edge cases: empty input, unicode, special characters, large batches
+
+- Unit tests for app/services/semantic_matching_service.py
+- Tests fuzzy column matching logic (e.g., "revenue" → "total_sales")
+- Tests synonym dictionary lookups and semantic indicators
+- Tests embedding similarity scoring with mocked models
+- Covers edge cases: unknown terms, empty input, multiple matches
+- Tests fallback string matching when transformers unavailable
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5bdc13e</div>
+                                        <div class="message">chore(tests): update coverage report</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#539d97a</div>
+                                        <div class="message">test(harness): add performance + error handling tests
+
+Performance Test Harness (tests/performance/test_nlq_perf.py):
+- Measure average response times for simple NLQ queries with synthetic datasets
+- Test query types: count, aggregation, GROUP BY, complex queries
+- Performance benchmarks:
+  * Simple count queries: avg ~0.043s (✓ &lt; 2.0s threshold)
+  * Aggregation queries: avg response time measured
+  * GROUP BY queries: performance monitored
+  * Complex agentic queries: async processing tested
+  * Concurrent queries: 10 parallel executions measured
+  * Schema retrieval: performance tracked
+  * End-to-end latency: comprehensive query type coverage
+
+Error Handling Test Harness (tests/errors/test_nlq_errors.py):
+- Test malformed queries: empty, gibberish, extremely long, special characters
+- Test missing columns: nonexistent columns, ambiguous references, type mismatches
+- Test no schema scenarios: empty database, nonexistent projects, corrupted DB
+- Test SQL generation errors: invalid syntax, injection patterns, API failures
+- Test error recovery: partial failures, graceful degradation, fallback mechanisms
+
+Results: 20/27 tests passing, comprehensive error scenarios covered
+Performance metrics successfully captured for optimization insights
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b2bbd3</div>
+                                        <div class="message">test(db): add DuckDB and vector store integration tests
+
+- Add comprehensive integration tests for DuckDB client (30 test cases)
+  - Cover connection management, query execution, schema operations
+  - Test SQL validation, batch operations, and error handling
+  - Include concurrent connections and large result set handling
+  - Achieve 94.69% coverage for DuckDB client
+
+- Add vector store integration tests with mocked ChromaDB (20 test cases)
+  - Cover document storage, embedding operations, and search
+  - Test collection management, metadata sanitization
+  - Include error recovery and multi-project isolation scenarios
+  - Achieve 82.30% coverage for vector client
+
+- Use lightweight temporary databases and proper mocking
+- Focus on connection success/failure, simple SELECT queries
+- Test insert + retrieval operations with real data flows
+
+Overall database layer coverage significantly improved with robust integration testing
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ec90830</div>
+                                        <div class="message">test(agents): add unit tests for NLQ agent and SQL validator
+
+- Add comprehensive mock-based tests for nlq_agent.py (27 test cases)
+  - Cover query parsing, workflow execution, schema exploration
+  - Test fallback strategies and error handling scenarios
+  - Mock LangGraph workflow and external dependencies
+  - Achieve 57.43% coverage (+49.44% improvement)
+
+- Add comprehensive tests for sql_validator.py (50 test cases)
+  - Cover valid/invalid SQL detection and classification
+  - Test SQL injection attempt detection
+  - Include edge cases and error handling
+  - Achieve 74.13% coverage (+67.43% improvement)
+
+Overall project coverage increased to 34.17%
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#da43f2c</div>
+                                        <div class="message">test(services): add unit tests for NLQ, RAG, and semantic matching services
+
+- Added comprehensive unit tests for NLQService, RAGService, and SemanticMatchingService
+- Achieved significant coverage improvements:
+  * NLQ Service: 12.45% → 52.45% (+40% improvement)
+  * RAG Service: 13.33% → 56.25% (+43% improvement)
+  * Overall coverage: 26.70% → 32.44% (+5.74% improvement)
+- Tests cover normal flows, error handling, and edge cases
+- Used pytest fixtures and mocking for external dependencies
+- Total of 80 comprehensive test cases across the three services
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5c07e2c</div>
+                                        <div class="message">chore: baseline tests for semantic matching
+
+- Fixed 1,417 linting issues with ruff --fix
+- Removed obsolete test files for non-existent modules
+- All tests now passing (17/17, 100% success rate)
+- Test coverage baseline established at 26.70%
+- Created comprehensive baseline analysis report
+- Identified key areas needing test coverage improvement
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#8 Feat/semantic matching</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">adorosario/nlq-poc-with-saif</span></div>
+                                    <div>84 files changed <span class="code">++16624 --2292</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Opened
+                                        <span class="issue">#8 Feat/semantic matching</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">adorosario/nlq-poc-with-saif</span></div>
+                                    <div>84 files changed <span class="code">++16624 --2292</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      branch
+                                        <span class="code">feat/semantic-matching</span>
+                                        in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 8 commits in
                                         <span class="repo">adorosario/nlq-poc-with-saif</span>
                                     </div>
@@ -2742,88 +3158,6 @@ serving as foundation for replacing single-shot SQL generation.
 🤖 Generated with [Claude Code](https://claude.ai/code)
 
 Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#7 Feature/langgraph agentic nlq</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">adorosario/nlq-poc-with-saif</span></div>
-                                    <div>106 files changed <span class="code">++3149 --18030</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Opened
-                                        <span class="issue">#7 Feature/langgraph agentic nlq</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">adorosario/nlq-poc-with-saif</span></div>
-                                    <div>106 files changed <span class="code">++3149 --18030</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">feature/langgraph-agentic-nlq</span>
-                                        in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">benchmark-infrastructure-setup</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#938844a</div>
-                                        <div class="message">add sentence-transformers dependency</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee0803c</div>
-                                        <div class="message">add graceful fallback for semantic matching dependencies</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f6c6d9e</div>
-                                        <div class="message">enhance nlq pipeline with semantic matching and agentic reasoning</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c953345</div>
-                                        <div class="message">fix frontend API proxy configuration</div>
                                     </div>
                                 </div>
                             </section>
@@ -2978,7 +3312,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Sept 2025, 22:10:34  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Sept 2025, 23:10:13  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
