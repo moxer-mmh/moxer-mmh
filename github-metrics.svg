@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            7 issue comments
+                            8 issue comments
                         </div>
                     </section>
                     <section>
@@ -389,21 +389,21 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 10.4mb of code in 2630 edited files across 155 commits over last 14 days</small>
+                <small>estimation from 9.20mb of code in 2242 edited files across 141 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="170.53443410846472" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="170.53443410846472" y="0" width="157.23738180822846" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="327.7718159166932" y="0" width="100.98844347122541" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="428.76025938791855" y="0" width="15.180392141077402" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="443.94065152899594" y="0" width="10.03715317331573" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="453.9778047023117" y="0" width="5.115706171935065" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="459.09351087424676" y="0" width="0.4571893201734083" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.5507001944202" y="0" width="0.4009161497558678" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.95161634417605" y="0" width="0.04838365582395111" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.25070867355964" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="176.25070867355964" y="0" width="147.04610497893256" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="323.2968136524922" y="0" width="108.99283313704652" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.28964678953866" y="0" width="11.372611864593837" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="443.6622586541325" y="0" width="10.190963901869688" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.85322255600215" y="0" width="5.167938625468103" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="459.02116118147023" y="0" width="0.4936790098072861" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.51484019127753" y="0" width="0.4329145041099287" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.94775469538746" y="0" width="0.05224530461246328" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2854,7 +2854,7 @@ fix(nlq-sql): cast string OrderDate to DATE for DATE_TRUNC</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Sept 2025, 18:13:18  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Sept 2025, 19:07:37  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
