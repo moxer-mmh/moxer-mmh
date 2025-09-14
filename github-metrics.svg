@@ -127,7 +127,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 174 repositories
+                            Starred 175 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -389,21 +389,21 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.09mb of code in 1860 edited files across 140 commits over last 14 days</small>
+                <small>estimation from 7.93mb of code in 1838 edited files across 132 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="179.32955047033374" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="179.32955047033374" y="0" width="138.56965532770917" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="317.89920579804294" y="0" width="114.83543748860409" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="432.734643286647" y="0" width="11.36120695581822" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="444.0958502424652" y="0" width="9.512680229841308" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="453.60853047230654" y="0" width="5.069652836798522" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.678183309105" y="0" width="0.7461572721140558" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.4243405812191" y="0" width="0.5205684457414893" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.94490902696054" y="0" width="0.05509097303937931" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="184.83859492687236" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="184.83859492687236" y="0" width="129.3082751411231" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="314.1468700679954" y="0" width="118.56302051261265" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="432.7098905806081" y="0" width="11.605351989405147" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="444.3152425700132" y="0" width="9.085819425393373" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="453.40106199540656" y="0" width="5.234214859335706" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.6352768547423" y="0" width="0.7703776978084231" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.4056545525507" y="0" width="0.5374662095643777" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.9431207621151" y="0" width="0.056879237884872515" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2851,7 +2851,7 @@ in majority of the prompt it works well but in this prompt i noticed that it did
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Sept 2025, 16:11:32  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Sept 2025, 17:08:46  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
