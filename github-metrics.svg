@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2654" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2387" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details,.activity .timestamp{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .timestamp{font-size:10px;margin-top:4px}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -389,7 +389,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.18mb of code in 451 edited files across 116 commits over last 13 days</small>
+                <small>estimation from 2.18mb of code in 453 edited files across 120 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2610,6 +2610,46 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#019e388</div>
+                                        <div class="message">Update new_agentic_nlq_plan.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#f94885f</div>
+                                        <div class="message">Update new_agentic_nlq_plan.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 55 commits in
                                         <span class="repo">adorosario/nlq-poc-with-saif</span>
                                     </div>
@@ -2863,399 +2903,6 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">repo-cleanup</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#59064aa</div>
-                                        <div class="message">feat(agent): Introduce Demo Agent and LLM-Powered Context Integration
-
-This commit introduces a new agentic NLQ model for demonstrations and significantly refactors the core NLQ pipeline to use a more powerful, LLM-driven
-context integration service.
-
-Key changes include:
-
-- **New Demo Agent (`DemoAgenticNLQAgent`):** A new, simplified agentic reasoning model designed for demonstrations. It uses a `langgraph` workflow to
-provide a clear, step-by-step reasoning trace for complex queries. This agent also features a multi-attempt SQL generation strategy to improve accuracy.
-
-- **LLM-Powered Context Integration:** The `ContextIntegrator` has been completely refactored to use an LLM for intelligently combining semantic analysis
-and schema discovery. This new approach provides a much richer and more accurate context for SQL generation, including table mappings, join strategies,
-and query structure recommendations.
-
-- **Refactored NLQ Service:** The `NLQService` has been simplified to use the new `DemoAgenticNLQAgent` for the "agent" reasoning mode. A significant
-amount of legacy and complex rule-based code for SQL fixing and semantic analysis has been removed, resulting in a cleaner and more maintainable
-implementation.
-
-- **Enhanced SQL Generation:** The `SQLGenerator` has been updated with a new `generate_enhanced_sql_from_context` method that leverages the new rich
-context from the `ContextIntegrator`. The SQL cleaning and fixing logic has also been improved to handle common LLM-generated syntax errors more
-effectively.
-
-- **New Documentation:** Added comprehensive technical documentation for the new architecture and a detailed implementation plan for the new agentic NL.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#81cc4e4</div>
-                                        <div class="message">fixed pipline after cleanup</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b9bfbcb</div>
-                                        <div class="message">add phase 1 wrap up and cleanup instructions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8d38b9</div>
-                                        <div class="message">docs(cleanup): add Phase 7 wrap-up summary and stakeholder report
-
-- Updated CLEANUP_PLAN.md with comprehensive Phase 7 completion report:
-  * Test file restructuring metrics (20 unit, 9 integration, 4 e2e files)
-  * Extracted test utilities analysis (fixtures.py 195 lines, test_utils.py 237 lines)
-  * Key improvements delivered (fixture consolidation, builder extraction, workflow enhancement)
-  * Comprehensive commit history and quality assurance confirmation
-
-- Created PHASE_7_COMPLETION_ISSUE.md stakeholder report:
-  * Executive summary with business value (enhanced development confidence, reduced brittleness)
-  * Technical achievements and detailed ROI assessment (60% faster test development, 50% maintenance reduction)
-  * Strategic benefits for NLQ+RAG system (workflow validation, API contract testing, error coverage)
-  * Complete 7-phase initiative summary with total business value delivered
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d3d7c2</div>
-                                        <div class="message">test(e2e): streamline end-to-end tests with builders, fixtures, and scenario-driven workflows
-
-- Completely refactored test_workflows.py from 77 to 362 lines with comprehensive user scenarios:
-  * Replaced 3 basic tests with 6 scenario-driven workflow tests
-  * Eliminated hard-coded values like "E2E Test Project" using ProjectBuilder
-  * Added proper test fixture structure for data setup and teardown
-
-- Implemented schema-based API response validation:
-  * Structured validation for project creation responses (9 required fields)
-  * Health endpoint validation with type checking and format verification
-  * Error response validation with proper field structure checking
-
-- Enhanced test coverage with real user workflows:
-  * Project creation → retrieval → listing workflow
-  * Error handling for non-existent projects with graceful degradation
-  * Router functionality testing with NLQ/RAG query categorization
-  * Health monitoring and system status verification
-  * Data lifecycle management (empty project → query attempts → guidance)
-  * Multi-project isolation and independent state management
-
-- Improved test documentation and naming:
-  * Test names now capture full user intent (e.g., test_user_creates_project_and_verifies_basic_functionality)
-  * Comprehensive docstrings explaining user journey validation
-  * Step-by-step user workflow documentation in test comments
-
-- Added proper test organization:
-  * TestCompleteUserWorkflows: Core system interaction patterns
-  * TestDataWorkflowScenarios: Data-centric user workflows
-  * Scenario-driven test structure focusing on end-to-end user value
-
-- Eliminated redundant coverage already handled by integration tests
-- Added shared fixture preparation for future data upload/ingestion testing
-
-All E2E tests now focus on complete user workflows rather than isolated API endpoint testing,
-providing better validation of the actual user experience with the NLQ+RAG system.
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">repo-cleanup</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b0e83cc</div>
-                                        <div class="message">test(integration): simplify and standardize integration tests with shared builders and fixtures
-
-- Refactored test_duckdb_integration.py from 507 to 374 lines by:
-  * Removing duplicated fixture definitions (used shared fixtures instead)
-  * Breaking down complex test methods into focused single-responsibility tests
-  * Added descriptive test names following pattern: test_action_returns_expected_outcome
-  * Added comprehensive docstrings explaining test purpose and expectations
-  * Replaced manual schema setup with reusable shared fixtures
-
-- Updated test_api_endpoints.py with:
-  * Structured response validation instead of ad-hoc dict access
-  * Descriptive test names and comprehensive docstrings
-  * Schema-based assertions for API contracts
-
-- Cleaned up test_date_queries.py by:
-  * Using ProjectBuilder for test data setup
-  * Consolidated fixtures and removed duplication
-  * Organized tests into focused test class with clear responsibilities
-
-- Removed redundant test_vector_simple.py (functionality covered by test_vector_integration.py)
-
-All integration tests now use shared fixtures from tests/utils/fixtures.py and builders
-from tests/utils/test_utils.py for consistent, maintainable test setup.
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ad423ce</div>
-                                        <div class="message">test(cleanup): consolidate fixtures and simplify test suite for maintainability
-
-- Scanned for duplicate test setup/teardown patterns across unit, integration, and e2e tests
-- Consolidated common fixture logic into tests/conftest.py with centralized imports
-- Created tests/utils/ directory with reusable test data builders and fixtures:
-  - ProjectBuilder for fluent test project creation
-  - NLQResultBuilder and RAGResultBuilder for consistent test data
-  - Common fixtures like mock_duckdb_client, temp_project_dir, sample_table_setup
-- Removed redundant fixture definitions from individual test files
-- Improved test naming from generic names like test_init to descriptive names
-- Simplified complex test scenarios by using builder patterns
-- Added comprehensive test documentation (README.md) explaining:
-  - Test structure and categories
-  - How to run different test types
-  - Test utilities and fixtures usage
-  - Best practices and troubleshooting
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ebe2c2</div>
-                                        <div class="message">docs(cleanup): add Phase 6 wrap-up summary and stakeholder report
-
-- Add comprehensive Phase 6 completion report to CLEANUP_PLAN.md with detailed LOC analysis:
-  * models/query.py: 97→177 lines (+82.5% for type safety &amp; validation)
-  * models/project.py: 96→283 lines (+194.8% for comprehensive validators)
-  * schemas/query.py: 64→319 lines (+398.4% for validation alignment)
-  * schemas/project.py: 63→568 lines (+801.6% for enterprise constraints)
-  * Total: 320→1,347 lines (+320.9% enhancement)
-
-- Create PHASE_6_COMPLETION_ISSUE.md stakeholder report covering:
-  * Executive summary with business value and ROI analysis (700% annual return)
-  * Technical achievements: comprehensive validation, type safety, security hardening
-  * Strategic benefits: enhanced data integrity, API reliability, developer velocity
-  * Success metrics: zero regressions, enterprise-grade validation, backward compatibility
-  * Key deliverables: ProjectLimits utility, consolidated validators, rich documentation
-
-- Document architectural improvements:
-  * Consolidated validation logic from external validators into Pydantic models
-  * Enhanced security with path traversal prevention and file validation
-  * Comprehensive type hints with Optional, List, Dict generic typing
-  * Auto-sync compatibility fields maintaining backward compatibility
-  * Rich OpenAPI documentation with examples and validation rules
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd10fad</div>
-                                        <div class="message">refactor(schemas): clean up Project schemas with validation aligned to models
-
-- Add comprehensive type hints and Pydantic field validations for all project schemas
-- Enhance validation logic aligned with Project model validators (slug formatting, name validation, routing config)
-- Add constraints for project-related collections: file limits, size limits, extension whitelisting
-- Implement ProjectLimits utility class for centralized resource constraints
-- Add detailed docstrings with OpenAPI examples for all request/response schemas
-- Enhance ProjectResponse with document count validation and consistency checks
-- Add pagination support to ProjectListResponse with validation
-- Improve FileUploadResponse with comprehensive filename and size validation
-- Enhance ProjectStatsResponse with statistical consistency validation
-- Maintain full backward compatibility for all existing API contracts
-- Remove redundant validation logic while preserving all functionality
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d41e491</div>
-                                        <div class="message">refactor(schemas): clean up Query schemas with validation aligned to models
-
-- Add comprehensive Pydantic field validators matching Query domain model constraints
-- Enhance QueryRequest with project slug validation and query length checks
-- Upgrade QueryResponse with field constraints and timing validations
-- Add RouterTestRequest/Response with batch validation and input sanitization
-- Include detailed docstrings for OpenAPI/Swagger documentation generation
-- Add field examples for better API documentation and testing
-- Implement proper error handling with descriptive validation messages
-- Ensure backward compatibility while adding enhanced validation
-- Align schema field types and constraints with domain model contract
-- Remove redundancy between schema and model response handling
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#08ef2bf</div>
-                                        <div class="message">refactor(models): clean up Project model fields, validation, and serialization
-
-- Remove redundant total_documents field, replace with computed property
-- Add comprehensive Pydantic field validators for name, slug, filename, table_name
-- Consolidate project validation logic from ProjectValidator into model validators
-- Add field constraints and descriptions for better API documentation
-- Enhance DocumentMetadata with security validations (path traversal prevention)
-- Add utility methods: generate_slug(), completed_documents, failed_documents
-- Add to_dict() method for clean API serialization
-- Maintain backward compatibility for existing API contracts
-- Remove manual total_documents assignments from MetadataManager
-- Add rich docstrings explaining all fields and validation rules
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b883c71</div>
-                                        <div class="message">refactor(models): clean up Query model fields, validation, and serialization
-
-## What was changed:
-- **Enhanced Type Safety**: Added comprehensive type hints using Optional, strict Field validations
-- **Pydantic Validators**: Added field_validator and model_validator for data integrity
-  - Confidence scores validated and rounded to 3 decimal places
-  - Timing values validated as non-negative
-  - Consistency validation between query types and results
-- **Improved Documentation**: Added detailed docstrings for all fields and methods
-- **Backward Compatibility**: Maintained compatibility fields (query, error, generated_sql, is_valid, etc.) with auto-sync logic
-- **Validation Logic**: Consolidated validation into Pydantic validators rather than ad-hoc checks
-- **Field Organization**: Better grouped fields by purpose (core results, compatibility, etc.)
-
-## Specific improvements:
-- RouterDecision: Added confidence validation and precision rounding
-- NLQResult: Added model validator to sync compatibility fields automatically
-- RAGResult: Added timing and confidence validation
-- QueryTrace: Added timing validation
-- QueryResponse: Added consistency validation between query_type and result objects
-
-## Backward compatibility:
-- All existing test patterns preserved
-- Compatibility fields (generated_sql, is_valid, etc.) auto-sync with core fields
-- Public API schema contract remains stable
-- No breaking changes to existing field names or types
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7dfca1b</div>
-                                        <div class="message">docs(cleanup): add Phase 5 wrap-up summary and stakeholder report
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e9895ec</div>
-                                        <div class="message">refactor(observability): consolidate observability into ObservabilityManager with settings integration
-
-- Create centralized ObservabilityManager class for Langfuse client lifecycle
-- Integrate with validated settings.langfuse_enabled property
-- Add consistent startup/teardown hooks for FastAPI applications
-- Standardize error reporting and metric logging into helper methods
-- Remove unused functions: trace_async_sql_execution, trace_async_rag_retrieval, observe import
-- Maintain backward compatibility for existing trace decorators and utility functions
-- Add comprehensive docstrings and usage examples
-- Consolidate redundant client checks and error handling patterns</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d24f533</div>
-                                        <div class="message">refactor(logging): consolidate logging setup and integrate with validated settings
-
-- Create LoggingConfig class for centralized logging management
-- Integrate with validated Settings class (settings.LOG_LEVEL, settings.LOG_FORMAT)
-- Add comprehensive third-party logger configuration (uvicorn, httpx, openai, chromadb, duckdb)
-- Improve Uvicorn logger hierarchy with separate access log control
-- Maintain backward compatibility with existing setup_logging() interface
-- Add comprehensive docstrings for all logging functions
-- Update tests to work with new LoggingConfig architecture
-
-Key improvements:
-- Better signal-to-noise ratio with reduced access log verbosity
-- Consistent formatting across all handlers and loggers
-- Cleaner separation of concerns with LoggingConfig class
-- Enhanced third-party logger management
-
-Lines: 45 → 120 (+75 lines for better organization and documentation)
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#926bed3</div>
-                                        <div class="message">refactor(config): clean up unused variables and consolidate into validated Settings class
-
-- Removed unused configuration variables (NLQ_MAX_RETRIES, NLQ_TIMEOUT, SQL_EXECUTION_TIMEOUT, ROUTER_CONFIDENCE_THRESHOLD)
-- Added comprehensive Pydantic field validation for all settings
-- Consolidated all defaults into Field() definitions with proper constraints
-- Added validators for OPENAI_API_KEY, LOG_LEVEL, and RAG_CHUNK_OVERLAP
-- Enhanced Settings class with langfuse_enabled property for observability checks
-- Improved error handling and environment variable validation
-- Added proper type hints and documentation for all configuration fields
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8534fe4</div>
-                                        <div class="message">refactor(db): simplify vector_client with unified connection management and consistent error handling
-
-- Introduce VectorDBExecutionError exception for consistent error handling
-- Extract helper methods: _execute_with_timing() and _format_embeddings()
-- Add close() method for proper connection lifecycle management
-- Standardize error handling to always raise exceptions instead of returning None/[]
-- Eliminate duplicate timing code across methods
-- Simplify connection initialization with proper error handling
-
-🧼 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be1b870</div>
-                                        <div class="message">refactor(db): simplify duckdb_client with cleaner connection management and error handling
-
-- Removed unused schema_dir field
-- Extracted duplicate column extraction logic into _extract_columns() helper
-- Created _execute_with_connection() helper to consolidate query execution patterns
-- Introduced DuckDBExecutionError for consistent error handling
-- Simplified error handling by removing mixed return patterns (some methods returned [], others raised exceptions)
-- Consolidated connection lifecycle management
-- Reduced code duplication in query execution paths
-- Maintained backward compatibility - all core functionality preserved
-
-🤖 Generated with [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3406,7 +3053,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Sept 2025, 16:14:04  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 19 Sept 2025, 17:10:00  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
