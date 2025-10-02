@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2084" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2136" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -389,19 +389,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.71mb of code in 413 edited files across 68 commits over last 13 days</small>
+                <small>estimation from 1.89mb of code in 445 edited files across 73 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="428.6457564782421" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="428.6457564782421" y="0" width="22.012369038924554" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="450.6581255171667" y="0" width="5.023432436319622" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="455.68155795348633" y="0" width="2.6524135689589796" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.33397152244527" y="0" width="1.041804811261018" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.37577633370626" y="0" width="0.5670855055111521" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.9428618392174" y="0" width="0.05713816078256305" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.9735631895709" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="430.9735631895709" y="0" width="20.37812325189109" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="451.35168644146194" y="0" width="4.650481970107392" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.00216841156936" y="0" width="2.4554926608606036" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.45766107242997" y="0" width="0.9644589735320641" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.42212004596206" y="0" width="0.5249838536339483" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="459.947103899596" y="0" width="0.052896100404026605" height="8" fill="#384d54"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2589,6 +2589,224 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 4 commits in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phase2</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5d98efd</div>
+                                        <div class="message">phase2 step5 summary</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d82c56b</div>
+                                        <div class="message">feat: Complete Phase 2 Step 6 - Provenance &amp; Hashing with xxhash
+
+Implemented fast content fingerprinting for dataset provenance tracking,
+deduplication, and cache key generation per New Enhancement Plan (lines 320-324).
+
+## Changes
+
+### 1. ContentHasher Class (NEW)
+- app/business/processing/provenance/content_hasher.py (+268 lines)
+- Implements xxhash64 hashing (10x faster than SHA256)
+- Three hash types:
+  * File content hash (original upload)
+  * Parquet content hash (normalized file)
+  * Schema fingerprint (column names + types + row count)
+- Cache key generation: {project}:{file_hash}[:query_hash]
+- Query hashing for result memoization
+
+### 2. CSVParser Integration
+- app/business/processing/parsing/csv_parser.py (+12 lines)
+- Replaced hashlib.sha256 with xxhash64 via ContentHasher
+- Generate all three hashes during parsing
+- Pass hashes to DataCard for PostgreSQL storage
+
+### 3. DataCard Schema Enhancement
+- app/data/schemas/datacard.py (+10 lines)
+- Added parquet_content_hash: str | None
+- Added schema_fingerprint: str | None
+- Updated content_hash description to specify xxhash64
+
+### 4. Comprehensive Testing
+- tests/unit/test_content_hasher.py (+326 lines)
+- 21 unit tests (all passing)
+- Test coverage: hashing, fingerprinting, determinism, collision resistance, performance
+
+### 5. Dependencies
+- pyproject.toml: Added xxhash&gt;=3.5.0
+
+## Benefits
+
+1. **Deduplication** - Instant detection of duplicate uploads
+2. **Cache Keys** - Reproducible query result caching
+3. **Data Lineage** - Track dataset provenance from upload → query
+4. **Performance** - 10x faster hashing than SHA256
+5. **Reproducibility** - Deterministic answers for same data
+
+## Test Results
+
+✅ 21/21 tests passing
+✅ Hash determinism verified
+✅ Collision resistance validated
+✅ Performance: 10MB file &lt; 1 second
+
+## Documentation
+
+- docs/Phase2_Step6_Implementation_Summary.md (complete)
+
+## Alignment with Plan
+
+✅ New Enhancement Plan Phase 2 Step 6 (lines 320-324)
+✅ Fingerprint datasets for reproducible answers
+✅ Enable incremental processing and cache keys
+✅ Use xxhash for fast, collision-resistant hashing
+
+## Next Steps
+
+Phase 3 Step 1: Column Role Detection (ID/dimension/measure/time)
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#207d0cb</div>
+                                        <div class="message">feat: Complete Phase 2 Step 5 - DuckDB view registration with ephemeral views
+
+Implement robust view registration system for normalized Parquet files with
+deterministic naming, on-demand view creation, and PostgreSQL metadata storage.
+
+## New Components
+
+### DuckDB View Registry (`app/business/processing/duckdb/view_registry.py`)
+- Deterministic view naming: `proj_{project_slug}_{sanitized_filename}_{hash}`
+- Ephemeral views created on-demand in each DuckDB connection
+- Schema inspection directly from Parquet files in MinIO
+- Project-scoped view isolation and collision-resistant hashing
+
+### DuckDB Client Enhancement (`app/infrastructure/database/duckdb_client.py`)
+- Added `create_views_from_datacards()` for batch view creation
+- Supports multiple views in single connection with error handling
+- Ready for multi-table joins in NLQ queries
+
+### Schema Registry Integration (`app/business/processing/parsing/schema_registry.py`)
+- Store DuckDB view names in PostgreSQL metadata
+- Enable view discovery without scanning filesystem
+- Support query planning and semantic matching
+
+### Projects API Extensions (`app/api/v1/endpoints/projects.py`)
+- GET `/api/v1/projects/{project_id}/views` - List all project views
+- GET `/api/v1/projects/{project_id}/views/{view_name}/schema` - Get view schema
+- Queries PostgreSQL for DataCards with view metadata
+
+### Upload API Integration (`app/api/v1/endpoints/uploads.py`)
+- POST `/api/v1/uploads/complete` now registers views automatically
+- Returns `duckdb_view_name` in response for immediate querying
+
+## Key Design Decisions
+
+1. **Ephemeral Views**: Created on-demand per connection vs. persistent catalog
+   - Eliminates view state drift and invalidation issues
+   - MinIO Parquet remains single source of truth
+   - Simpler error recovery
+
+2. **PostgreSQL Metadata**: View names stored in SchemaRegistry
+   - Enables view discovery for query planning
+   - Integrates with existing DataCard persistence
+   - Ready for Phase 3 semantic indexing
+
+3. **Deterministic Naming**: Project-scoped with SHA256 hash suffix
+   - Collision-resistant and reproducible
+   - Human-readable (includes filename)
+   - Project-isolated (prefix)
+
+## Testing
+
+- 16 comprehensive unit tests (all passing)
+- Tests cover:
+  - View name generation and sanitization
+  - Ephemeral view creation and lifecycle
+  - Schema inspection from Parquet
+  - Multi-view batch creation
+  - View uniqueness across projects
+
+## Alignment with Enhancement Plan
+
+✅ Mount Parquet as DuckDB views (Phase 2 Step 5)
+✅ Deterministic naming conventions
+✅ Record catalog entries for discovery
+✅ Enable SQL queries against datasets
+
+Ready for Phase 2 Step 6: Provenance &amp; Hashing
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e88bd7</div>
+                                        <div class="message">feat: Complete Phase 2 Step 4 - Quality profiling with Great Expectations
+
+Implement comprehensive data quality validation with auto-generated expectations:
+
+Core Quality Module:
+- ExpectationBuilder: Auto-generates 10-20 expectations from column statistics
+- DataValidator: Executes Great Expectations validation and parses results
+- QualityProfiler: Orchestrates validation with Babel-formatted reports
+
+Features:
+- Role-based expectation strategies (ID: uniqueness, Measure: range, etc.)
+- Table-level validations (row/column counts)
+- Column-level validations (types, ranges, uniqueness, cardinality)
+- Actionable insights (critical issues, warnings, recommendations)
+- Babel integration for locale-aware percentage formatting
+
+Enhanced DataCard Schema:
+- Added ExpectationResult for individual validation results
+- Added QualityReport with comprehensive validation summary
+- Maintains backward compatibility with existing quality_score field
+
+Parser Integration:
+- CSV parser runs quality profiling automatically
+- Excel parser runs quality profiling automatically
+- Quality reports stored in DataCard.quality_report field
+
+Dependencies:
+- great-expectations&gt;=0.18.0 for enterprise-grade validation
+- Enhanced Babel usage for proper locale-aware formatting
+
+Testing:
+- 13 comprehensive unit tests covering all components
+- Manual verification tests passing (100% success rate)
+
+Code Cleanup:
+- Removed unused imports (gx, AbstractDataContext, format_decimal)
+- Optimized imports to only what's actively used
+
+Documentation:
+- Complete implementation summary with examples
+- Addresses Polars vs Pandas question (keep pandas for Phase 2)
+- Explains proper Babel usage throughout quality reports
+
+Phase 2 Step 4 complete per New Enhancement Plan specification.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -2770,26 +2988,6 @@ Co-authored-by: Qwen-Coder &lt;qwen-coder@alibabacloud.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4790dd4</div>
-                                        <div class="message">cleaning and formatting code</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2930,7 +3128,7 @@ Co-authored-by: Qwen-Coder &lt;qwen-coder@alibabacloud.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2025, 20:12:28  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Oct 2025, 21:10:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
