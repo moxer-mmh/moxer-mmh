@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 33 users
+                            Followed by 32 users
                         </div>
                     </section>
                     <section>
@@ -389,19 +389,18 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.89mb of code in 445 edited files across 73 commits over last 14 days</small>
+                <small>estimation from 1.63mb of code in 372 edited files across 46 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.9735631895709" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.9735631895709" y="0" width="20.37812325189109" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="451.35168644146194" y="0" width="4.650481970107392" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.00216841156936" y="0" width="2.4554926608606036" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.45766107242997" y="0" width="0.9644589735320641" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.42212004596206" y="0" width="0.5249838536339483" height="8" fill="#7e858d"/>
-                    <rect mask="url(#languages-bar)" x="459.947103899596" y="0" width="0.052896100404026605" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.8671333016223" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.8671333016223" y="0" width="24.006861000569373" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="449.87399430219165" y="0" width="5.4785945134403695" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="455.35258881563203" y="0" width="2.892742882577683" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.2453316982097" y="0" width="1.1362004357387239" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.3815321339485" y="0" width="0.618467866051594" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -439,12 +438,6 @@
                             <path fill="#7e858d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Mako
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Dockerfile
                     </div>
                 </div>
             </section>
@@ -3133,7 +3126,7 @@ Co-authored-by: Qwen-Coder &lt;qwen-coder@alibabacloud.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Oct 2025, 10:12:14  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Oct 2025, 11:09:16  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
