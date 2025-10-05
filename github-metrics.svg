@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2260" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2176" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.audit svg{margin:0}.audit.high{fill:#18b663}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal;color:#666;margin-left:38px;font-size:13px}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message,.project .description{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.project .description{display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}svg.columns .items-wrapper{column-count:2;column-gap:10px}svg.columns .items-wrapper&gt;*{-webkit-column-break-inside:avoid;page-break-inside:avoid;break-inside:avoid-column}@media (max-width:850px){svg.columns .items-wrapper{column-count:1}}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.chart-bars .entry,footer{display:flex;flex-direction:column;font-size:10px;color:#666}footer{margin-top:8px;font-style:italic;text-align:right;justify-content:flex-end;padding:0 4px}.categories{display:flex;align-items:center;justify-content:space-around;margin-top:4px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry{flex-grow:1;align-items:center}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.activity .field,.chart-bars.horizontal .entry .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.activity{margin-bottom:12px}.activity .field{width:100%;max-width:450px;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -389,19 +389,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.99mb of code in 552 edited files across 47 commits over last 13 days</small>
+                <small>estimation from 2.51mb of code in 599 edited files across 58 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="441.0572612783455" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="441.0572612783455" y="0" width="11.578294453046261" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="452.6355557313918" y="0" width="3.6068040558256054" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.24235978721737" y="0" width="1.9044221534821935" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.14678194069955" y="0" width="0.7896535006340161" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.9364354413336" y="0" width="0.6563994724020259" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.5928349137356" y="0" width="0.40716508626441456" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.5592123351129" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="444.5592123351129" y="0" width="9.437810909921733" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="453.9970232450346" y="0" width="2.9400128668402288" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="456.9370361118748" y="0" width="1.5523509313154513" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.4893870431903" y="0" width="0.6436699682811071" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.13305701147135" y="0" width="0.5350506611336703" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.66810767260506" y="0" width="0.33189232739494584" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2613,12 +2613,244 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 6 commits in
                                         <span class="repo">adorosario/nlq-poc-with-saif</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">phase3</span></div>
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#7603795</div>
+                                        <div class="message">Merge pull request #40 from adorosario/phase3
+
+Phase3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b9a4b88</div>
+                                        <div class="message">refactor: Remove FuzzyColumnMatcher, use direct rapidfuzz in RelationshipDetector
+
+Removed the standalone FuzzyColumnMatcher that was created by mistake. The
+Enhancement Plan Phase 4 Step 2 (Schema Linker) uses pgvector embeddings
+for semantic column matching, not fuzzy string matching.
+
+## Changes
+
+### Removed Files
+- app/business/processing/schema/fuzzy_column_matcher.py (596 lines)
+- tests/unit/test_fuzzy_column_matcher.py (366 lines, 28 tests)
+- tests/e2e/test_fuzzy_matching_workflow.py (352 lines, 10 tests)
+- docs/Phase3_FuzzyColumnMatching_Implementation_Summary.md
+
+### Modified Files
+- app/business/processing/schema/relationship_detector.py
+  - Removed FuzzyColumnMatcher import
+  - Replaced with direct rapidfuzz.fuzz calls
+  - Improved fuzzy matching logic with multi-strategy approach:
+    1. Direct string similarity (normalized)
+    2. Base name extraction and comparison (customer_ref → customer)
+    3. Table name matching (customer_ref → customers table)
+
+## Why This Change?
+
+1. **Not in Enhancement Plan**: Phase 4 Step 2 explicitly uses pgvector
+   embeddings + synonyms for schema linking, not fuzzy string matching
+
+2. **Correct Use of rapidfuzz**: Phase 3 Step 4 mentions rapidfuzz only for
+   fuzzy FK detection (structural pattern matching), which is correctly
+   implemented in RelationshipDetector
+
+3. **Simpler Architecture**: Direct rapidfuzz usage is clearer and removes
+   an unnecessary abstraction layer
+
+## Test Results
+
+All 20 tests still passing:
+- 13 unit tests for RelationshipDetector
+- 7 integration tests including finance schema with non-standard naming
+  (customer_ref → cust_id, acct_ref → acct_num)
+
+Enhanced fuzzy matching now handles:
+- Direct similarity: cust_id vs customer_id
+- Base extraction: customer_ref → customer (matches customers table)
+- Suffix removal: acct_ref → acct (matches acct_num)
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1669a8f</div>
+                                        <div class="message">feat: Complete Phase 3 Step 4 - Implicit Table Relationship Detection
+
+Implements automatic foreign key relationship detection for uploaded datasets
+without explicit schema definitions. Uses multi-strategy detection combining
+pattern matching, cardinality analysis, and referential integrity validation.
+
+## What Was Implemented
+
+### 1. Data Models (app/data/schemas/join_graph.py - 323 lines)
+- TableRelationship: Detected FK relationships with confidence scores
+- JoinPath: Ordered sequence of relationships for multi-hop joins
+- JoinGraph: Graph structure with BFS path finding algorithm
+- RelationshipType enum: MANY_TO_ONE, ONE_TO_MANY, MANY_TO_MANY, ONE_TO_ONE
+- DetectionMethod enum: EXACT_NAME, FUZZY_NAME, VALUE_OVERLAP, HYBRID
+
+### 2. RelationshipDetector (app/business/processing/schema/relationship_detector.py - 597 lines)
+- Pattern-based FK detection (customer_id, order_key, product_code, etc.)
+- Cardinality analysis for relationship type determination
+- DuckDB queries for referential integrity validation (value overlap checks)
+- Fuzzy name matching integration for non-standard column names
+- Confidence scoring: weighted formula (0.6-1.0)
+  - Exact match: 0.4 * name + 0.5 * overlap + 0.1 * cardinality_boost
+  - Fuzzy match: 0.3 * name + 0.6 * overlap + 0.1 * cardinality_boost
+
+### 3. Unit Tests (tests/unit/test_relationship_detector.py - 452 lines)
+- 13 comprehensive unit tests (all passing)
+- Coverage: RelationshipDetector 78.97%, JoinGraph 94.69%
+- Tests: PK identification, FK patterns, name matching, confidence scoring,
+  join path finding (single-hop &amp; multi-hop), summary statistics
+
+### 4. Integration Tests (tests/integration/test_relationship_detection_workflow.py - 561 lines)
+- 7 realistic end-to-end scenarios (all passing)
+- E-commerce schema (customers, orders, products, order_items)
+- Northwind schema (classic SQL Server sample database)
+- Multi-hop join paths (order_items → orders → customers → regions)
+- Finance schema with non-standard naming (customer_ref, acct_ref)
+- Edge cases: no relationships, high confidence filtering
+
+### 5. Documentation (docs/Phase3_Step4_Implementation_Summary.md)
+- Comprehensive implementation summary
+- Algorithm deep dive (BFS, value overlap SQL)
+- Usage examples with expected outputs
+- Integration points with other Phase 3 components
+- Performance characteristics and future enhancements
+
+## Key Features
+
+✅ Multi-strategy FK detection (patterns + cardinality + value overlap)
+✅ Confidence scoring with configurable thresholds (default: 0.6)
+✅ BFS algorithm for multi-hop join path discovery
+✅ Fuzzy matching for non-standard FK naming (cust_ref → customer_id)
+✅ Relationship type detection (many-to-one, one-to-many, etc.)
+✅ DuckDB-powered referential integrity validation
+✅ 20 comprehensive tests (13 unit + 7 integration, all passing)
+
+## Test Results
+
+```
+$ pytest tests/unit/test_relationship_detector.py -v
+========================= 13 passed in 3.70s ===========================
+
+$ pytest tests/integration/test_relationship_detection_workflow.py -v
+========================= 7 passed in 1.39s ============================
+
+Total: 20/20 tests passing ✅
+```
+
+## Integration
+
+Phase 3 Step 4 integrates with:
+- Phase 3 Step 1 (Column Role Detection): Uses ColumnRole.ID for PK/FK candidates
+- Fuzzy Column Matching: Handles non-standard FK naming variations
+
+## Future Enhancements (Planned)
+
+- Composite key detection using mutual information
+- Transitive relationship inference
+- Schema evolution tracking
+- API endpoints for relationship management
+- Integration with NLQ agent for automatic JOIN generation
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dcfa4e2</div>
+                                        <div class="message">feat: Complete Phase 3 Step 4 - Fuzzy Column Matching
+
+## Overview
+Implemented fuzzy column name matching using Levenshtein distance, phonetic matching
+(Soundex), and abbreviation expansion to handle user typos, abbreviations, and column
+name variations in queries.
+
+## Implementation Details
+
+### Core Components
+- **FuzzyColumnMatcher** (596 lines): Multi-algorithm matcher with:
+  - Levenshtein distance matching (via rapidfuzz)
+  - Phonetic matching (custom Soundex implementation)
+  - Abbreviation expansion (27 common terms)
+  - Hybrid fusion with confidence scoring
+
+### Key Features
+- **4 match methods**: exact, fuzzy (Levenshtein), phonetic, hybrid
+- **Confidence scoring**: 0.0-1.0 with tier-based thresholds
+- **27 abbreviations**: amt→amount, qty→quantity, txn→transaction, etc.
+- **Case-insensitive**: Handles UPPER, lower, camelCase, snake_case
+- **Special char normalization**: Dashes, spaces, dots → underscores
+- **Top-K suggestions**: Returns multiple matches for disambiguation
+
+### Matching Strategy
+1. Exact match (case-insensitive) → confidence 1.0
+2. Normalize and expand abbreviations
+3. Levenshtein distance matching → confidence 0.6-0.95
+4. Phonetic matching (Soundex) → confidence 0.7-0.9
+5. Hybrid fusion (both agree) → confidence boost +0.05
+
+### Soundex Implementation
+Custom Soundex algorithm for phonetic matching:
+- Encodes words into 4-character phonetic codes
+- Matches similar-sounding words (customer ≈ custemer)
+- Handles pronunciation-based typos
+
+## Files Created
+- app/business/processing/schema/fuzzy_column_matcher.py (596 lines)
+- tests/unit/test_fuzzy_column_matcher.py (366 lines, 28 tests)
+- tests/e2e/test_fuzzy_matching_workflow.py (352 lines, 10 tests)
+- docs/Phase3_Step4_Implementation_Summary.md (700+ lines)
+
+## Test Results
+✅ 28 unit tests passing (86.63% code coverage)
+✅ 10 e2e workflow tests passing
+✅ Total: 38/38 tests passing (100%)
+
+## Test Coverage
+- Typo correction: "custmer_name" → "customer_name" (confidence: 0.92)
+- Abbreviation expansion: "qty" → "quantity" (confidence: 1.0)
+- Phonetic matching: "custemer_name" → "customer_name" (confidence: 0.85)
+- Real-world scenarios: E-commerce, Finance, HR, Northwind database
+
+## Usage Example
+```python
+matcher = FuzzyColumnMatcher(available_columns=["customer_name", "order_date"])
+
+result = matcher.find_best_match("custmer_name")
+# {
+#     "matched_column": "customer_name",
+#     "similarity_score": 0.92,
+#     "match_method": "hybrid",
+#     "confidence": 0.92
+# }
+```
+
+## Integration Notes
+Unlike Steps 1-3, fuzzy matching is a **query-time tool**, not a schema enrichment
+tool. It will be integrated into the query resolution pipeline to resolve user
+column references with typos/abbreviations before SQL generation.
+
+## Benefits
+- Improved UX: Users don't need exact column names
+- Reduced errors: Fewer "column not found" failures
+- Graceful degradation: Confidence scores for downstream decisions
+- Production-ready: Comprehensive tests, performance-optimized
+
+Phase 3 Step 4 complete! Ready for Step 5 (Implicit Table Relationships).
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
                                     <div class="commit">
                                         <div class="sha">#a5b64d2</div>
                                         <div class="message">feat: Complete Phase 3 Step 3 - Unit &amp; Currency Detection
@@ -2819,80 +3051,16 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4521b1c</div>
-                                        <div class="message">Merge pull request #39 from adorosario/phase3
-
-feat: Complete Phase 3 Step 1 - Column Role Detection</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efe1cb5</div>
-                                        <div class="message">feat: Complete Phase 3 Step 1 - Column Role Detection
-
-Implement intelligent column role detection using heuristics, statistics,
-and regex patterns. The system now automatically classifies columns into
-semantic roles (ID, DIMENSION, MEASURE, TIME) with confidence scores.
-
-Components Added:
-- ColumnRoleDetector class with multi-signal detection
-  * ID detection: Name patterns + high cardinality (&gt;95%)
-  * TIME detection: Data types + temporal keywords
-  * MEASURE detection: Keywords + variance + decimals
-  * DIMENSION detection: Low cardinality + categorical types
-- Confidence scoring (0.0-1.0) for each role assignment
-- 24 comprehensive unit tests (89.92% code coverage)
-
-Integration:
-- CSV Parser: Integrated detector, stores confidence scores
-- Excel Parser: Integrated detector, stores confidence scores
-- DataCard Schema: Added role_confidence field to ColumnStats
-
-Testing:
-- 24/24 unit tests passing
-- Integration test with realistic 15-row dataset
-- All columns correctly classified with appropriate confidence
-
-Benefits:
-- Enables safe aggregations (SUM on measures, GROUP BY on dimensions)
-- Prevents nonsense operations (aggregating IDs, grouping by measures)
-- Provides confidence scores for downstream query planning
-- Fully backward compatible (confidence field optional)
-
-Files:
-- backend/app/business/processing/schema/column_role_detector.py (276 lines)
-- backend/tests/unit/test_column_role_detector.py (349 lines, 24 tests)
-- backend/docs/Phase3_Step1_Implementation_Summary.md
-
-🤖 Generated with Claude Code
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#39 feat: Complete Phase 3 Step 1 - Column Role Detection</span>
+                                        <span class="issue">#40 Phase3</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">adorosario/nlq-poc-with-saif</span></div>
-                                    <div>7 files changed <span class="code">++1010 --87</span></div>
+                                    <div>20 files changed <span class="code">++6183 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2904,12 +3072,12 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#39 feat: Complete Phase 3 Step 1 - Column Role Detection</span>
+                                        <span class="issue">#40 Phase3</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">adorosario/nlq-poc-with-saif</span></div>
-                                    <div>7 files changed <span class="code">++1010 --87</span></div>
+                                    <div>20 files changed <span class="code">++6183 --2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2920,412 +3088,249 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 10 commits in
+                                        Pushed 2 commits in
                                         <span class="repo">adorosario/nlq-poc-with-saif</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">phase3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#499a87e</div>
-                                        <div class="message">Merge pull request #38 from adorosario/phase2
+                                        <div class="sha">#b9a4b88</div>
+                                        <div class="message">refactor: Remove FuzzyColumnMatcher, use direct rapidfuzz in RelationshipDetector
 
-Phase2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d98efd</div>
-                                        <div class="message">phase2 step5 summary</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d82c56b</div>
-                                        <div class="message">feat: Complete Phase 2 Step 6 - Provenance &amp; Hashing with xxhash
-
-Implemented fast content fingerprinting for dataset provenance tracking,
-deduplication, and cache key generation per New Enhancement Plan (lines 320-324).
+Removed the standalone FuzzyColumnMatcher that was created by mistake. The
+Enhancement Plan Phase 4 Step 2 (Schema Linker) uses pgvector embeddings
+for semantic column matching, not fuzzy string matching.
 
 ## Changes
 
-### 1. ContentHasher Class (NEW)
-- app/business/processing/provenance/content_hasher.py (+268 lines)
-- Implements xxhash64 hashing (10x faster than SHA256)
-- Three hash types:
-  * File content hash (original upload)
-  * Parquet content hash (normalized file)
-  * Schema fingerprint (column names + types + row count)
-- Cache key generation: {project}:{file_hash}[:query_hash]
-- Query hashing for result memoization
+### Removed Files
+- app/business/processing/schema/fuzzy_column_matcher.py (596 lines)
+- tests/unit/test_fuzzy_column_matcher.py (366 lines, 28 tests)
+- tests/e2e/test_fuzzy_matching_workflow.py (352 lines, 10 tests)
+- docs/Phase3_FuzzyColumnMatching_Implementation_Summary.md
 
-### 2. CSVParser Integration
-- app/business/processing/parsing/csv_parser.py (+12 lines)
-- Replaced hashlib.sha256 with xxhash64 via ContentHasher
-- Generate all three hashes during parsing
-- Pass hashes to DataCard for PostgreSQL storage
+### Modified Files
+- app/business/processing/schema/relationship_detector.py
+  - Removed FuzzyColumnMatcher import
+  - Replaced with direct rapidfuzz.fuzz calls
+  - Improved fuzzy matching logic with multi-strategy approach:
+    1. Direct string similarity (normalized)
+    2. Base name extraction and comparison (customer_ref → customer)
+    3. Table name matching (customer_ref → customers table)
 
-### 3. DataCard Schema Enhancement
-- app/data/schemas/datacard.py (+10 lines)
-- Added parquet_content_hash: str | None
-- Added schema_fingerprint: str | None
-- Updated content_hash description to specify xxhash64
+## Why This Change?
 
-### 4. Comprehensive Testing
-- tests/unit/test_content_hasher.py (+326 lines)
-- 21 unit tests (all passing)
-- Test coverage: hashing, fingerprinting, determinism, collision resistance, performance
+1. **Not in Enhancement Plan**: Phase 4 Step 2 explicitly uses pgvector
+   embeddings + synonyms for schema linking, not fuzzy string matching
 
-### 5. Dependencies
-- pyproject.toml: Added xxhash&gt;=3.5.0
+2. **Correct Use of rapidfuzz**: Phase 3 Step 4 mentions rapidfuzz only for
+   fuzzy FK detection (structural pattern matching), which is correctly
+   implemented in RelationshipDetector
 
-## Benefits
-
-1. **Deduplication** - Instant detection of duplicate uploads
-2. **Cache Keys** - Reproducible query result caching
-3. **Data Lineage** - Track dataset provenance from upload → query
-4. **Performance** - 10x faster hashing than SHA256
-5. **Reproducibility** - Deterministic answers for same data
+3. **Simpler Architecture**: Direct rapidfuzz usage is clearer and removes
+   an unnecessary abstraction layer
 
 ## Test Results
 
-✅ 21/21 tests passing
-✅ Hash determinism verified
-✅ Collision resistance validated
-✅ Performance: 10MB file &lt; 1 second
+All 20 tests still passing:
+- 13 unit tests for RelationshipDetector
+- 7 integration tests including finance schema with non-standard naming
+  (customer_ref → cust_id, acct_ref → acct_num)
 
-## Documentation
-
-- docs/Phase2_Step6_Implementation_Summary.md (complete)
-
-## Alignment with Plan
-
-✅ New Enhancement Plan Phase 2 Step 6 (lines 320-324)
-✅ Fingerprint datasets for reproducible answers
-✅ Enable incremental processing and cache keys
-✅ Use xxhash for fast, collision-resistant hashing
-
-## Next Steps
-
-Phase 3 Step 1: Column Role Detection (ID/dimension/measure/time)
+Enhanced fuzzy matching now handles:
+- Direct similarity: cust_id vs customer_id
+- Base extraction: customer_ref → customer (matches customers table)
+- Suffix removal: acct_ref → acct (matches acct_num)
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
 
 Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#207d0cb</div>
-                                        <div class="message">feat: Complete Phase 2 Step 5 - DuckDB view registration with ephemeral views
+                                        <div class="sha">#1669a8f</div>
+                                        <div class="message">feat: Complete Phase 3 Step 4 - Implicit Table Relationship Detection
 
-Implement robust view registration system for normalized Parquet files with
-deterministic naming, on-demand view creation, and PostgreSQL metadata storage.
+Implements automatic foreign key relationship detection for uploaded datasets
+without explicit schema definitions. Uses multi-strategy detection combining
+pattern matching, cardinality analysis, and referential integrity validation.
 
-## New Components
+## What Was Implemented
 
-### DuckDB View Registry (`app/business/processing/duckdb/view_registry.py`)
-- Deterministic view naming: `proj_{project_slug}_{sanitized_filename}_{hash}`
-- Ephemeral views created on-demand in each DuckDB connection
-- Schema inspection directly from Parquet files in MinIO
-- Project-scoped view isolation and collision-resistant hashing
+### 1. Data Models (app/data/schemas/join_graph.py - 323 lines)
+- TableRelationship: Detected FK relationships with confidence scores
+- JoinPath: Ordered sequence of relationships for multi-hop joins
+- JoinGraph: Graph structure with BFS path finding algorithm
+- RelationshipType enum: MANY_TO_ONE, ONE_TO_MANY, MANY_TO_MANY, ONE_TO_ONE
+- DetectionMethod enum: EXACT_NAME, FUZZY_NAME, VALUE_OVERLAP, HYBRID
 
-### DuckDB Client Enhancement (`app/infrastructure/database/duckdb_client.py`)
-- Added `create_views_from_datacards()` for batch view creation
-- Supports multiple views in single connection with error handling
-- Ready for multi-table joins in NLQ queries
+### 2. RelationshipDetector (app/business/processing/schema/relationship_detector.py - 597 lines)
+- Pattern-based FK detection (customer_id, order_key, product_code, etc.)
+- Cardinality analysis for relationship type determination
+- DuckDB queries for referential integrity validation (value overlap checks)
+- Fuzzy name matching integration for non-standard column names
+- Confidence scoring: weighted formula (0.6-1.0)
+  - Exact match: 0.4 * name + 0.5 * overlap + 0.1 * cardinality_boost
+  - Fuzzy match: 0.3 * name + 0.6 * overlap + 0.1 * cardinality_boost
 
-### Schema Registry Integration (`app/business/processing/parsing/schema_registry.py`)
-- Store DuckDB view names in PostgreSQL metadata
-- Enable view discovery without scanning filesystem
-- Support query planning and semantic matching
+### 3. Unit Tests (tests/unit/test_relationship_detector.py - 452 lines)
+- 13 comprehensive unit tests (all passing)
+- Coverage: RelationshipDetector 78.97%, JoinGraph 94.69%
+- Tests: PK identification, FK patterns, name matching, confidence scoring,
+  join path finding (single-hop &amp; multi-hop), summary statistics
 
-### Projects API Extensions (`app/api/v1/endpoints/projects.py`)
-- GET `/api/v1/projects/{project_id}/views` - List all project views
-- GET `/api/v1/projects/{project_id}/views/{view_name}/schema` - Get view schema
-- Queries PostgreSQL for DataCards with view metadata
+### 4. Integration Tests (tests/integration/test_relationship_detection_workflow.py - 561 lines)
+- 7 realistic end-to-end scenarios (all passing)
+- E-commerce schema (customers, orders, products, order_items)
+- Northwind schema (classic SQL Server sample database)
+- Multi-hop join paths (order_items → orders → customers → regions)
+- Finance schema with non-standard naming (customer_ref, acct_ref)
+- Edge cases: no relationships, high confidence filtering
 
-### Upload API Integration (`app/api/v1/endpoints/uploads.py`)
-- POST `/api/v1/uploads/complete` now registers views automatically
-- Returns `duckdb_view_name` in response for immediate querying
+### 5. Documentation (docs/Phase3_Step4_Implementation_Summary.md)
+- Comprehensive implementation summary
+- Algorithm deep dive (BFS, value overlap SQL)
+- Usage examples with expected outputs
+- Integration points with other Phase 3 components
+- Performance characteristics and future enhancements
 
-## Key Design Decisions
+## Key Features
 
-1. **Ephemeral Views**: Created on-demand per connection vs. persistent catalog
-   - Eliminates view state drift and invalidation issues
-   - MinIO Parquet remains single source of truth
-   - Simpler error recovery
+✅ Multi-strategy FK detection (patterns + cardinality + value overlap)
+✅ Confidence scoring with configurable thresholds (default: 0.6)
+✅ BFS algorithm for multi-hop join path discovery
+✅ Fuzzy matching for non-standard FK naming (cust_ref → customer_id)
+✅ Relationship type detection (many-to-one, one-to-many, etc.)
+✅ DuckDB-powered referential integrity validation
+✅ 20 comprehensive tests (13 unit + 7 integration, all passing)
 
-2. **PostgreSQL Metadata**: View names stored in SchemaRegistry
-   - Enables view discovery for query planning
-   - Integrates with existing DataCard persistence
-   - Ready for Phase 3 semantic indexing
+## Test Results
 
-3. **Deterministic Naming**: Project-scoped with SHA256 hash suffix
-   - Collision-resistant and reproducible
-   - Human-readable (includes filename)
-   - Project-isolated (prefix)
+```
+$ pytest tests/unit/test_relationship_detector.py -v
+========================= 13 passed in 3.70s ===========================
 
-## Testing
+$ pytest tests/integration/test_relationship_detection_workflow.py -v
+========================= 7 passed in 1.39s ============================
 
-- 16 comprehensive unit tests (all passing)
-- Tests cover:
-  - View name generation and sanitization
-  - Ephemeral view creation and lifecycle
-  - Schema inspection from Parquet
-  - Multi-view batch creation
-  - View uniqueness across projects
+Total: 20/20 tests passing ✅
+```
 
-## Alignment with Enhancement Plan
+## Integration
 
-✅ Mount Parquet as DuckDB views (Phase 2 Step 5)
-✅ Deterministic naming conventions
-✅ Record catalog entries for discovery
-✅ Enable SQL queries against datasets
+Phase 3 Step 4 integrates with:
+- Phase 3 Step 1 (Column Role Detection): Uses ColumnRole.ID for PK/FK candidates
+- Fuzzy Column Matching: Handles non-standard FK naming variations
 
-Ready for Phase 2 Step 6: Provenance &amp; Hashing
+## Future Enhancements (Planned)
 
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e88bd7</div>
-                                        <div class="message">feat: Complete Phase 2 Step 4 - Quality profiling with Great Expectations
-
-Implement comprehensive data quality validation with auto-generated expectations:
-
-Core Quality Module:
-- ExpectationBuilder: Auto-generates 10-20 expectations from column statistics
-- DataValidator: Executes Great Expectations validation and parses results
-- QualityProfiler: Orchestrates validation with Babel-formatted reports
-
-Features:
-- Role-based expectation strategies (ID: uniqueness, Measure: range, etc.)
-- Table-level validations (row/column counts)
-- Column-level validations (types, ranges, uniqueness, cardinality)
-- Actionable insights (critical issues, warnings, recommendations)
-- Babel integration for locale-aware percentage formatting
-
-Enhanced DataCard Schema:
-- Added ExpectationResult for individual validation results
-- Added QualityReport with comprehensive validation summary
-- Maintains backward compatibility with existing quality_score field
-
-Parser Integration:
-- CSV parser runs quality profiling automatically
-- Excel parser runs quality profiling automatically
-- Quality reports stored in DataCard.quality_report field
-
-Dependencies:
-- great-expectations&gt;=0.18.0 for enterprise-grade validation
-- Enhanced Babel usage for proper locale-aware formatting
-
-Testing:
-- 13 comprehensive unit tests covering all components
-- Manual verification tests passing (100% success rate)
-
-Code Cleanup:
-- Removed unused imports (gx, AbstractDataContext, format_decimal)
-- Optimized imports to only what's actively used
-
-Documentation:
-- Complete implementation summary with examples
-- Addresses Polars vs Pandas question (keep pandas for Phase 2)
-- Explains proper Babel usage throughout quality reports
-
-Phase 2 Step 4 complete per New Enhancement Plan specification.
+- Composite key detection using mutual information
+- Transitive relationship inference
+- Schema evolution tracking
+- API endpoints for relationship management
+- Integration with NLQ agent for automatic JOIN generation
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
 
 Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                     </div>
-                                    <div class="commit">
-                                        <div class="sha">#db0bbc2</div>
-                                        <div class="message">feat: Complete Phase 2 Step 3 - Locale-aware data coercion
-
-Implement comprehensive locale-aware parsing with automatic detection and normalization:
-
-- Add LocaleCoercer for robust date/numeric/currency parsing
-- Detect decimal/thousand separators (US: 1,234.56 / EU: 1.234,56)
-- Parse dates in multiple formats with timezone normalization to UTC
-- Detect and normalize currencies ($, €, £, ¥, ₹)
-- Convert percentages (15% → 0.15)
-- Preserve raw data with _raw suffix for audit trails
-
-Enhanced parsers:
-- CSV parser integrated with locale coercion
-- Excel parser integrated with locale coercion
-- Both preserve original values alongside normalized data
-
-Dependencies:
-- dateparser&gt;=1.2.0 for robust date parsing
-- babel&gt;=2.14.0 for locale formatting
-- pytz&gt;=2024.1 for timezone handling
-
-Testing:
-- 16 comprehensive unit tests (all passing)
-- Coverage: US/EU numeric formats, multi-format dates, currencies
-- Integration tests with real-world data patterns
-
-Docs:
-- Move PHASE2_STEP2_SUMMARY.md to docs/
-- Add Phase2_Step3_Implementation_Summary.md
-
-Phase 2 Step 3 complete per New Enhancement Plan specification.
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phase3</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6bb6eb2</div>
-                                        <div class="message">feat: Integrate Phase 2 Step 2 parsing pipeline with automatic DataCard generation
+                                        <div class="sha">#dcfa4e2</div>
+                                        <div class="message">feat: Complete Phase 3 Step 4 - Fuzzy Column Matching
 
-Implemented automatic parsing pipeline that triggers on upload completion,
-replacing the old csv_processor and parquet_normalizer with a modern
-DataCard-based system that extracts rich metadata and stores it in PostgreSQL.
+## Overview
+Implemented fuzzy column name matching using Levenshtein distance, phonetic matching
+(Soundex), and abbreviation expansion to handle user typos, abbreviations, and column
+name variations in queries.
 
-**New Components:**
-- DataCard schema with column stats, quality scores, and role inference
-- CSVParser with encoding detection and locale-aware parsing
-- ExcelParser with multi-sheet support
-- ParserFactory with extensible parser registration
-- SchemaRegistry for PostgreSQL storage of DataCards
+## Implementation Details
 
-**Integration:**
-- Upload completion endpoint now triggers parsing automatically
-- Parses CSV/Excel files and generates DataCards with rich metadata
-- Stores DataCards in PostgreSQL schema_info field
-- Graceful error handling (parsing failures don't break uploads)
+### Core Components
+- **FuzzyColumnMatcher** (596 lines): Multi-algorithm matcher with:
+  - Levenshtein distance matching (via rapidfuzz)
+  - Phonetic matching (custom Soundex implementation)
+  - Abbreviation expansion (27 common terms)
+  - Hybrid fusion with confidence scoring
 
-**Removed:**
-- Old csv_processor.py (replaced by new parsing pipeline)
-- Old parquet_normalizer.py (replaced by parser-specific conversion)
-- Deprecated project_service.ingest_tabular_files() method
+### Key Features
+- **4 match methods**: exact, fuzzy (Levenshtein), phonetic, hybrid
+- **Confidence scoring**: 0.0-1.0 with tier-based thresholds
+- **27 abbreviations**: amt→amount, qty→quantity, txn→transaction, etc.
+- **Case-insensitive**: Handles UPPER, lower, camelCase, snake_case
+- **Special char normalization**: Dashes, spaces, dots → underscores
+- **Top-K suggestions**: Returns multiple matches for disambiguation
 
-**Features:**
-- Column role inference (ID, Dimension, Measure, Time, Text)
-- Statistical profiling (min/max, mean, median, outliers, cardinality)
-- Data quality scoring (completeness, validity, uniqueness, consistency)
-- OpenTelemetry tracing for parsing operations
-- Parquet conversion with PyArrow schema optimization
+### Matching Strategy
+1. Exact match (case-insensitive) → confidence 1.0
+2. Normalize and expand abbreviations
+3. Levenshtein distance matching → confidence 0.6-0.95
+4. Phonetic matching (Soundex) → confidence 0.7-0.9
+5. Hybrid fusion (both agree) → confidence boost +0.05
 
-**Testing:**
-- 17 comprehensive tests covering all parsing components
-- All tests pass with good coverage of parsers
-- No regressions in existing functionality
+### Soundex Implementation
+Custom Soundex algorithm for phonetic matching:
+- Encodes words into 4-character phonetic codes
+- Matches similar-sounding words (customer ≈ custemer)
+- Handles pronunciation-based typos
 
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
+## Files Created
+- app/business/processing/schema/fuzzy_column_matcher.py (596 lines)
+- tests/unit/test_fuzzy_column_matcher.py (366 lines, 28 tests)
+- tests/e2e/test_fuzzy_matching_workflow.py (352 lines, 10 tests)
+- docs/Phase3_Step4_Implementation_Summary.md (700+ lines)
 
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b3495bd</div>
-                                        <div class="message">feat: Complete Phase 2 Step 1 - Enhanced upload API with chunked/resumable uploads
+## Test Results
+✅ 28 unit tests passing (86.63% code coverage)
+✅ 10 e2e workflow tests passing
+✅ Total: 38/38 tests passing (100%)
 
-## Phase 2 Step 1 Implementation
+## Test Coverage
+- Typo correction: "custmer_name" → "customer_name" (confidence: 0.92)
+- Abbreviation expansion: "qty" → "quantity" (confidence: 1.0)
+- Phonetic matching: "custemer_name" → "customer_name" (confidence: 0.85)
+- Real-world scenarios: E-commerce, Finance, HR, Northwind database
 
-### Features Added
-- ✅ Chunked upload API (initiate → upload chunks → complete)
-- ✅ Resumable uploads with session/chunk tracking in PostgreSQL
-- ✅ MinIO integration using boto3 S3-compatible client
-- ✅ Redis caching (progress: 5s TTL, completed: 24h TTL)
-- ✅ Metadata tracking (project, filename, hash, size, timestamps)
-- ✅ Multipart upload support with proper MinIO bucket initialization
-- ✅ File type routing (datasets vs documents buckets)
-- ✅ OpenTelemetry instrumentation (@trace_upload_operation)
+## Usage Example
+```python
+matcher = FuzzyColumnMatcher(available_columns=["customer_name", "order_date"])
 
-### Phase 1 Infrastructure Utilized
-- PostgreSQL: upload_sessions, upload_chunks tables
-- Redis: Progress and metadata caching
-- MinIO: Object storage with boto3 multipart uploads
-- FastAPI: RESTful upload endpoints
-- OpenTelemetry: Upload operation tracing
-- Docker Compose: Container orchestration
+result = matcher.find_best_match("custmer_name")
+# {
+#     "matched_column": "customer_name",
+#     "similarity_score": 0.92,
+#     "match_method": "hybrid",
+#     "confidence": 0.92
+# }
+```
 
-### New Files
-- app/api/v1/endpoints/uploads.py: Upload API endpoints
-- app/data/crud/upload.py: Upload CRUD operations
-- app/data/models/upload.py: UploadSession, UploadChunk models
-- app/data/schemas/upload.py: Pydantic schemas for uploads
-- migrations/versions/a27246428605_*.py: Database migration
+## Integration Notes
+Unlike Steps 1-3, fuzzy matching is a **query-time tool**, not a schema enrichment
+tool. It will be integrated into the query resolution pipeline to resolve user
+column references with typos/abbreviations before SQL generation.
 
-### Key Changes
-- object_storage_service.py: Added boto3 multipart upload methods
-- main.py: Added MinIO bucket initialization at startup
-- pyproject.toml: Added boto3&gt;=1.34.0 dependency
-- api.py: Registered uploads router
+## Benefits
+- Improved UX: Users don't need exact column names
+- Reduced errors: Fewer "column not found" failures
+- Graceful degradation: Confidence scores for downstream decisions
+- Production-ready: Comprehensive tests, performance-optimized
 
-### Testing Verified
-- CSV, Excel, Markdown, Text, Binary files upload successfully
-- Redis cache hit/miss performance (3-5ms cached vs 5-7ms uncached)
-- All files visible in MinIO console at http://localhost:9090
-- Proper bucket segregation (datasets vs documents)
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52c65a5</div>
-                                        <div class="message">refactor: Complete Phase 1 repository restructuring and resolve circular imports
-
-Major reorganization to improve maintainability and resolve development environment issues:
-
-• Restructure backend architecture into domain-driven layers:
-  - Move app/agents/ → app/business/agents/
-  - Move app/core/ → app/core/{config,observability,security}/
-  - Move app/crud/ → app/data/crud/
-  - Move app/models/ → app/data/models/
-  - Move app/schemas/ → app/data/schemas/
-  - Move app/db/ → app/infrastructure/database/
-  - Move app/services/ → app/business/services/
-  - Move app/utils/ → app/business/utils/
-
-• Resolve circular import issues in database clients:
-  - Implement lazy initialization pattern for settings and logger
-  - Fix duckdb_client.py, postgres_client.py, redis_client.py, minio_client.py, chromadb_client.py, state_manager.py
-  - Replace import-time initialization with lazy getters to prevent circular dependencies during migrations
-
-• Fix database migration execution:
-  - Update Makefile db-migrate target to run inside Docker container
-  - Ensure proper environment variable access during Alembic migrations
-
-• Update all import statements across codebase:
-  - Migrate 90+ import references to new module structure
-  - Update API endpoints, services, agents, and scripts
-  - Maintain backward compatibility where needed
-
-This restructuring enables successful `make dev-setup` execution and provides a cleaner, more maintainable codebase architecture following domain-driven design principles.
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#921f167</div>
-                                        <div class="message">feat: Complete Phase 1 Step 6 - Security &amp; Secrets Management
-
-Implement comprehensive security foundation for POC:
-
-🔐 Security Features:
-- Security utilities with secret generation and validation
-- API key authentication for service-to-service calls
-- Redis-based rate limiting using existing infrastructure
-- Security headers middleware (CSRF, XSS, etc.)
-- Request logging with security context
-- Filename sanitization and upload protection
-
-🛠 Implementation:
-- app/core/security.py: Security utilities and helpers
-- app/core/dependencies.py: FastAPI security dependencies
-- app/middleware/security.py: Security middleware stack
-- Enhanced configuration with security toggles
-- Integrated security middleware into main FastAPI app
-
-🎯 POC-Appropriate:
-- Local-only implementation (no cloud dependencies)
-- Graceful degradation (works without Redis)
-- Configurable security features via environment
-- No complex user auth (as requested for POC)
-
-All security features can be enabled/disabled via config and
-system gracefully handles component failures.
+Phase 3 Step 4 complete! Ready for Step 5 (Implicit Table Relationships).
 
 🤖 Generated with [Claude Code](https://claude.com/claude-code)
 
@@ -3474,7 +3479,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Oct 2025, 18:14:24  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Oct 2025, 19:08:22  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
