@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2156" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2190" class="">
     <defs>
         <style/>
     </defs>
@@ -171,7 +171,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    248 MB used
+                                    250 MB used
                                 </div>
                             </section>
                             <section>
@@ -389,19 +389,19 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 2.41mb of code in 576 edited files across 56 commits over last 12 days</small>
+                <small>estimation from 2.55mb of code in 589 edited files across 60 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.82160826955453" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.82160826955453" y="0" width="9.139159957020137" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="453.9607682265747" y="0" width="2.957769094310447" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="456.91853732088515" y="0" width="1.5617263651990678" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.48026368608424" y="0" width="0.6475574173808898" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.1278211034651" y="0" width="0.5382821031978646" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.66610320666297" y="0" width="0.3338967933370213" height="8" fill="#7e858d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.67027666001985" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="445.67027666001985" y="0" width="8.628162724331036" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="454.29843938435084" y="0" width="2.7923915509438917" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="457.0908309352947" y="0" width="1.4744056645452484" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.56523659984" y="0" width="0.6113505832905467" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.17658718313055" y="0" width="0.5081851723602671" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.6847723554908" y="0" width="0.31522764450918817" height="8" fill="#7e858d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2582,6 +2582,202 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">phase3</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eda5538</div>
+                                        <div class="message">test: Add integration tests for SchemaCard workflow (Phase 3 Step 6)
+
+Adds comprehensive integration tests for SchemaCard consolidation workflow
+following the same pattern as Phase 3 Step 4 relationship detection tests.
+
+## Test Coverage (8 tests, all passing)
+
+- test_single_table_schema_card: Basic table SchemaCard creation
+- test_schema_card_with_relationships: SchemaCard with JoinGraph integration
+- test_schema_card_with_embeddings: Embedding metadata tracking
+- test_project_schema_card_multi_table: Multi-table project consolidation
+- test_project_schema_card_with_join_graph: Complex relationship graphs
+- test_project_schema_card_with_embedding_coverage: Coverage calculation
+- test_complete_phase3_consolidation: End-to-end Phase 3 validation
+- test_schema_card_update_workflow: Schema update workflow
+
+## Validation
+
+Tests verify complete Phase 3 consolidation:
+- Step 1: Column roles (ID, dimension, measure, time)
+- Step 2: Synonyms and aliases
+- Step 3: Units and currencies
+- Step 4: Relationships (JoinGraph)
+- Step 5: Embeddings (semantic metadata)
+- Step 6: SchemaCard consolidation
+
+Uses AsyncMock for database operations, no infrastructure required.
+All tests validate real service logic without mocks or placeholders.
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e12fb7e</div>
+                                        <div class="message">feat: Complete Phase 3 Step 6 - SchemaCard Consolidation
+
+This commit implements Phase 3 Step 6, consolidating all Phase 3 outputs
+(column roles, synonyms, units, relationships, embeddings) into queryable
+SchemaCard records persisted in PostgreSQL.
+
+## New Files
+
+- app/data/schemas/schema_card.py (324 lines)
+  Pydantic models: ColumnSchemaInfo, TableSchemaInfo, ProjectSchemaCard
+
+- app/business/processing/schema/schema_card_service.py (370 lines)
+  Service for consolidating Phase 3 outputs into SchemaCard records
+
+- tests/unit/test_schema_card_service.py (569 lines)
+  Comprehensive unit tests (10/10 passing, 92.86% coverage)
+
+- docs/Phase3_Step6_Implementation_Summary.md
+  Complete implementation documentation with architecture and examples
+
+## Enhanced Files
+
+- app/data/crud/schema.py
+  Added create_or_update_schema_card(), bulk_create_join_relationships(),
+  delete_project_join_graph() methods
+
+- app/api/v1/endpoints/uploads.py
+  Refactored Phase 3 processing: extracted 98 lines of inline logic into
+  _process_phase3_schema_induction() helper function
+  Integrated SchemaCard generation and JoinGraph persistence
+
+## Key Features
+
+- Consolidates all Phase 3 metadata into unified schema representation
+- JSONB storage for efficient querying by Phase 4 agents
+- Project-level and table-level SchemaCard support
+- JoinGraph now persisted in database (resolved TODO)
+- Embedding coverage tracking
+- Quality score aggregation
+
+## Testing
+
+All unit tests passing:
+- test_init
+- test_create_table_schema_card_basic
+- test_create_table_schema_card_with_relationships
+- test_create_table_schema_card_with_embedding_metadata
+- test_column_schema_extraction
+- test_create_project_schema_card_single_table
+- test_create_project_schema_card_multiple_tables
+- test_create_project_schema_card_with_join_graph
+- test_create_project_schema_card_with_embedding_coverage
+- test_update_schema_card
+
+Coverage: 92.86% for schema_card_service.py
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#097e25c</div>
+                                        <div class="message">feat: Complete Phase 3 Step 5 - Semantic Embeddings Index &amp; Step 4 Integration
+
+This commit implements Phase 3 Step 5 (Embeddings Index) and integrates
+Phase 3 Step 4 (Relationship Detection) into the upload pipeline.
+
+## Phase 3 Step 5: Embeddings Index
+
+### Core Implementation
+- SchemaEmbeddingService: Generate embeddings for tables and columns
+- Uses text-embedding-3-large (OpenAI) per Enhancement Plan
+- Stores embeddings in PostgreSQL/pgvector for semantic search
+- Dual lookup: exact synonym matching + semantic search
+
+### Files Created
+1. app/business/processing/schema/schema_embedding_service.py (420 lines)
+   - generate_and_store_embeddings(): Main entry point
+   - _create_table_embedding(): Table-level embeddings
+   - _create_column_embedding(): Column-level embeddings
+   - store_synonyms(): Explicit synonym storage
+   - search_similar_columns(): Semantic column search
+   - search_similar_tables(): Semantic table search
+
+2. tests/unit/test_schema_embedding_service.py (492 lines)
+   - 11 tests, all passing (88.89% coverage)
+   - Tests embedding generation, search, and workflow
+
+3. tests/integration/test_schema_embedding_workflow.py (559 lines)
+   - End-to-end workflow tests
+   - Multi-table scenarios
+   - Semantic search validation
+
+4. docs/Phase3_Step5_Implementation_Summary.md
+   - Comprehensive documentation
+   - Usage examples and performance characteristics
+
+### Configuration Changes
+- Updated EMBEDDING_MODEL default: text-embedding-3-small → text-embedding-3-large
+
+### Integration Points
+- Integrated into upload endpoint (after DataCard registration)
+- Generates embeddings for newly uploaded tables
+- Stores synonyms for exact matching fallback
+
+## Phase 3 Step 4: Integration
+
+### Relationship Detection Integration
+- Integrated RelationshipDetector into upload endpoint
+- Runs after new table upload (if project has 2+ tables)
+- Detects FK relationships between tables
+- Logs JoinGraph statistics
+- TODO: Persist JoinGraph in Phase 3 Step 6 (SchemaCard)
+
+### Workflow
+1. Upload file → Parse → Generate DataCard
+2. Phase 3 Steps 1-3 (roles, synonyms, units) - already integrated
+3. Phase 3 Step 4 (relationships) - NOW INTEGRATED
+4. Phase 3 Step 5 (embeddings) - NOW INTEGRATED
+
+## Integration Status
+
+✅ Phase 3 Step 1: Column role detection (in parsers)
+✅ Phase 3 Step 2: Synonyms &amp; aliases (in parsers)
+✅ Phase 3 Step 3: Unit &amp; currency detection (in parsers)
+✅ Phase 3 Step 4: Relationship detection (NOW in upload endpoint)
+✅ Phase 3 Step 5: Embeddings index (NOW in upload endpoint)
+⏳ Phase 3 Step 6: SchemaCard consolidation (NEXT)
+
+## Testing
+- Unit tests: 11/11 passed
+- Integration tests: Created (require DB setup)
+- No breaking changes
+
+## Dependencies
+- Existing Phase 1 infrastructure (PostgreSQL + pgvector)
+- Existing Phase 2 parsing pipeline
+- OpenAI API key for embeddings
+
+🤖 Generated with [Claude Code](https://claude.com/claude-code)
+
+Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 6 commits in
                                         <span class="repo">adorosario/nlq-poc-with-saif</span>
                                     </div>
@@ -3206,108 +3402,6 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">adorosario/nlq-poc-with-saif</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">phase3</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#dcfa4e2</div>
-                                        <div class="message">feat: Complete Phase 3 Step 4 - Fuzzy Column Matching
-
-## Overview
-Implemented fuzzy column name matching using Levenshtein distance, phonetic matching
-(Soundex), and abbreviation expansion to handle user typos, abbreviations, and column
-name variations in queries.
-
-## Implementation Details
-
-### Core Components
-- **FuzzyColumnMatcher** (596 lines): Multi-algorithm matcher with:
-  - Levenshtein distance matching (via rapidfuzz)
-  - Phonetic matching (custom Soundex implementation)
-  - Abbreviation expansion (27 common terms)
-  - Hybrid fusion with confidence scoring
-
-### Key Features
-- **4 match methods**: exact, fuzzy (Levenshtein), phonetic, hybrid
-- **Confidence scoring**: 0.0-1.0 with tier-based thresholds
-- **27 abbreviations**: amt→amount, qty→quantity, txn→transaction, etc.
-- **Case-insensitive**: Handles UPPER, lower, camelCase, snake_case
-- **Special char normalization**: Dashes, spaces, dots → underscores
-- **Top-K suggestions**: Returns multiple matches for disambiguation
-
-### Matching Strategy
-1. Exact match (case-insensitive) → confidence 1.0
-2. Normalize and expand abbreviations
-3. Levenshtein distance matching → confidence 0.6-0.95
-4. Phonetic matching (Soundex) → confidence 0.7-0.9
-5. Hybrid fusion (both agree) → confidence boost +0.05
-
-### Soundex Implementation
-Custom Soundex algorithm for phonetic matching:
-- Encodes words into 4-character phonetic codes
-- Matches similar-sounding words (customer ≈ custemer)
-- Handles pronunciation-based typos
-
-## Files Created
-- app/business/processing/schema/fuzzy_column_matcher.py (596 lines)
-- tests/unit/test_fuzzy_column_matcher.py (366 lines, 28 tests)
-- tests/e2e/test_fuzzy_matching_workflow.py (352 lines, 10 tests)
-- docs/Phase3_Step4_Implementation_Summary.md (700+ lines)
-
-## Test Results
-✅ 28 unit tests passing (86.63% code coverage)
-✅ 10 e2e workflow tests passing
-✅ Total: 38/38 tests passing (100%)
-
-## Test Coverage
-- Typo correction: "custmer_name" → "customer_name" (confidence: 0.92)
-- Abbreviation expansion: "qty" → "quantity" (confidence: 1.0)
-- Phonetic matching: "custemer_name" → "customer_name" (confidence: 0.85)
-- Real-world scenarios: E-commerce, Finance, HR, Northwind database
-
-## Usage Example
-```python
-matcher = FuzzyColumnMatcher(available_columns=["customer_name", "order_date"])
-
-result = matcher.find_best_match("custmer_name")
-# {
-#     "matched_column": "customer_name",
-#     "similarity_score": 0.92,
-#     "match_method": "hybrid",
-#     "confidence": 0.92
-# }
-```
-
-## Integration Notes
-Unlike Steps 1-3, fuzzy matching is a **query-time tool**, not a schema enrichment
-tool. It will be integrated into the query resolution pipeline to resolve user
-column references with typos/abbreviations before SQL generation.
-
-## Benefits
-- Improved UX: Users don't need exact column names
-- Reduced errors: Fewer "column not found" failures
-- Graceful degradation: Confidence scores for downstream decisions
-- Production-ready: Comprehensive tests, performance-optimized
-
-Phase 3 Step 4 complete! Ready for Step 5 (Implicit Table Relationships).
-
-🤖 Generated with [Claude Code](https://claude.com/claude-code)
-
-Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3443,7 +3537,7 @@ Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Oct 2025, 05:11:42  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Oct 2025, 06:17:34  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
