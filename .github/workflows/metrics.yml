@@ -12,7 +12,7 @@ jobs:
       group: metrics-update
       cancel-in-progress: true
     steps:
-      - uses: lowlighter/metrics@latest  # stalomeow/metrics@projects-v2  # stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10   # gh-metrics/metrics@master
+      - uses: moxer-mmh/metrics@master # lowlighter/metrics@latest  # stalomeow/metrics@projects-v2  # stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10   # gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
