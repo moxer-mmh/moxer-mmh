@@ -2992,7 +2992,7 @@ The creative workflow should now work correctly! 🎉
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.02m out of 189m users</span>
+                                    <span class="gh">ranked 2.02m out of 190m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">31</div>
                                     </div>
@@ -3240,7 +3240,7 @@ The creative workflow should now work correctly! 🎉
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 565k out of 189m users</span>
+                                    <span class="gh">ranked 565k out of 190m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">32</div>
                                     </div>
@@ -3571,7 +3571,7 @@ The creative workflow should now work correctly! 🎉
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2025, 20:17:23  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Dec 2025, 21:14:37  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
