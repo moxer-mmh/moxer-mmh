@@ -3047,7 +3047,7 @@ Pydantic enum handling:
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 552k out of 193m users</span>
+                                    <span class="gh">ranked 553k out of 193m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">33</div>
                                     </div>
@@ -3378,7 +3378,7 @@ Pydantic enum handling:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2026, 08:22:33  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Jan 2026, 09:21:58  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
