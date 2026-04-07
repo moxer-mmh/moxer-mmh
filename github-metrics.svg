@@ -2614,7 +2614,7 @@
                                     </svg>
                                     <div class="content">
                                         Reopened
-                                        <span class="issue">#289 [Mobile] Upgrade HTTP client from package:http to Dio</span>
+                                        <span class="issue">#247 [Backend] Vendor subscription tiers — FREE/BASIC/PREMIUM with feature gating</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -3449,7 +3449,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2026, 21:38:03  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 7 Apr 2026, 22:33:00  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
