@@ -3127,7 +3127,7 @@ Ship plan lane (per
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 580k out of 216m users</span>
+                                    <span class="gh">ranked 581k out of 216m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">32</div>
                                     </div>
@@ -3458,7 +3458,7 @@ Ship plan lane (per
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2026, 02:03:17  with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 Apr 2026, 05:35:45  with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
